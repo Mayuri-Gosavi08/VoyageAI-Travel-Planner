@@ -1,0 +1,327 @@
+restaurant_id,name,city,state,cuisine_type,price_range,cost_for_two_inr,rating,veg_type,description
+1,Green Leaf Courtyard,Jodhpur,Rajasthan,Continental,₹₹,887,3.6,Both,Continental both restaurant in Jodhpur.
+2,The Terrace Restaurant,Jodhpur,Rajasthan,Rajasthani,₹₹₹,1998,3.7,Both,Rajasthani both restaurant in Jodhpur.
+3,Namak Diner,Rishikesh,Uttarakhand,Multi-cuisine,₹,413,4.1,Veg,Multi-cuisine veg restaurant in Rishikesh.
+4,Riverside Eatery,Rishikesh,Uttarakhand,Kerala,₹₹,878,3.0,Veg,Kerala veg restaurant in Rishikesh.
+5,Spice Route Eatery,Calangute,Goa,South Indian,₹,266,3.9,Both,South Indian both restaurant in Calangute.
+6,Golden Corner,Calangute,Goa,Mughlai,₹,221,3.4,Both,Mughlai both restaurant in Calangute.
+7,Riverside Courtyard,Calangute,Goa,Goan,₹₹₹,1767,4.4,Both,Goan both restaurant in Calangute.
+8,Coastal Corner,Calangute,Goa,North Indian,₹₹₹,1574,4.4,Both,North Indian both restaurant in Calangute.
+9,Namak Kitchen,Calangute,Goa,Kerala,₹,332,4.2,Veg,Kerala veg restaurant in Calangute.
+10,Tadka Courtyard,Mumbai,Maharashtra,Seafood,₹₹,982,3.9,Both,Seafood both restaurant in Mumbai.
+11,Bawarchi Eatery,Mumbai,Maharashtra,Italian,₹,410,3.9,Both,Italian both restaurant in Mumbai.
+12,Local Bhavan,Mumbai,Maharashtra,Continental,₹,367,4.1,Both,Continental both restaurant in Mumbai.
+13,Old Town Courtyard,Mumbai,Maharashtra,Mughlai,₹₹₹,1312,4.3,Both,Mughlai both restaurant in Mumbai.
+14,Heritage Diner,Munnar,Kerala,Italian,₹₹₹,1880,3.7,Veg,Italian veg restaurant in Munnar.
+15,Mishti Grill,Munnar,Kerala,Punjabi,₹₹₹,1565,3.7,Both,Punjabi both restaurant in Munnar.
+16,Zaika Grill,Munnar,Kerala,Continental,₹,328,4.0,Non-Veg,Continental non-veg restaurant in Munnar.
+17,Royal Corner,Munnar,Kerala,Mughlai,₹,231,4.1,Veg,Mughlai veg restaurant in Munnar.
+18,Copper Pot Dhaba,Munnar,Kerala,Kerala,₹₹,862,4.2,Both,Kerala both restaurant in Munnar.
+19,Riverside Kitchen,Kochi,Kerala,Mughlai,₹₹₹,1178,4.3,Veg,Mughlai veg restaurant in Kochi.
+20,Blue Ginger Cafe,Kochi,Kerala,North Indian,₹,439,4.2,Non-Veg,North Indian non-veg restaurant in Kochi.
+21,Curry Leaf Grill,Kochi,Kerala,Chettinad,₹₹₹,1013,4.2,Veg,Chettinad veg restaurant in Kochi.
+22,Bawarchi Dhaba,Puducherry,Puducherry,South Indian,₹₹,997,4.4,Both,South Indian both restaurant in Puducherry.
+23,Copper Pot House,Puducherry,Puducherry,Bengali,₹,385,4.1,Both,Bengali both restaurant in Puducherry.
+24,Local Restaurant,Kanyakumari,Tamil Nadu,Rajasthani,₹₹,548,4.0,Both,Rajasthani both restaurant in Kanyakumari.
+25,Red Chili Bistro,Kanyakumari,Tamil Nadu,Bengali,₹₹,957,4.3,Non-Veg,Bengali non-veg restaurant in Kanyakumari.
+26,The Spice Terrace,Kanyakumari,Tamil Nadu,Kerala,₹₹,866,4.7,Both,Kerala both restaurant in Kanyakumari.
+27,Southern Spice Dhaba,Haridwar,Uttarakhand,Cafe,₹₹₹₹,3560,4.7,Both,Cafe both restaurant in Haridwar.
+28,Garden Kitchen,Haridwar,Uttarakhand,Chinese,₹,219,4.1,Veg,Chinese veg restaurant in Haridwar.
+29,Blue Ginger Junction,Jaipur,Rajasthan,Kerala,₹,358,4.3,Veg,Kerala veg restaurant in Jaipur.
+30,Garden Diner,Jaipur,Rajasthan,Continental,₹₹,723,3.7,Both,Continental both restaurant in Jaipur.
+31,Riverside Tiffin Room,Gulmarg,Jammu and Kashmir,South Indian,₹₹,577,4.3,Veg,South Indian veg restaurant in Gulmarg.
+32,Tandoor Villa Kitchen,Gulmarg,Jammu and Kashmir,Continental,₹,378,3.8,Both,Continental both restaurant in Gulmarg.
+33,Rustic Dhaba,Gulmarg,Jammu and Kashmir,North Indian,₹,295,4.7,Veg,North Indian veg restaurant in Gulmarg.
+34,Tadka Cafe,Gulmarg,Jammu and Kashmir,Seafood,₹₹,800,3.6,Both,Seafood both restaurant in Gulmarg.
+35,Urban Corner,Darjeeling,West Bengal,Tandoor & Grill,₹₹,902,3.6,Non-Veg,Tandoor & Grill non-veg restaurant in Darjeeling.
+36,Bamboo Junction,Darjeeling,West Bengal,Bengali,₹₹₹,1174,5.0,Veg,Bengali veg restaurant in Darjeeling.
+37,Coastal Bistro,Kodaikanal,Tamil Nadu,South Indian,₹₹,748,5.0,Both,South Indian both restaurant in Kodaikanal.
+38,The Spice Foods,Kodaikanal,Tamil Nadu,Chinese,₹,228,4.3,Non-Veg,Chinese non-veg restaurant in Kodaikanal.
+39,Copper Pot Bhavan,Kodaikanal,Tamil Nadu,Chinese,₹,411,4.2,Veg,Chinese veg restaurant in Kodaikanal.
+40,Bawarchi Terrace,Agra,Uttar Pradesh,Italian,₹,387,4.5,Both,Italian both restaurant in Agra.
+41,Coastal Eatery,Agra,Uttar Pradesh,Tandoor & Grill,₹₹₹₹,2257,3.8,Both,Tandoor & Grill both restaurant in Agra.
+42,Old Town Bhavan,Agra,Uttar Pradesh,South Indian,₹₹,833,3.8,Both,South Indian both restaurant in Agra.
+43,Green Leaf Kitchen,Agra,Uttar Pradesh,Continental,₹₹₹,1079,4.0,Both,Continental both restaurant in Agra.
+44,Curry Leaf Courtyard,Bangalore,Karnataka,Punjabi,₹,289,4.6,Both,Punjabi both restaurant in Bangalore.
+45,Tandoor Villa House,Bangalore,Karnataka,North Indian,₹₹₹,1652,3.8,Non-Veg,North Indian non-veg restaurant in Bangalore.
+46,Masala Eatery,Alleppey,Kerala,Rajasthani,₹,476,3.9,Both,Rajasthani both restaurant in Alleppey.
+47,Spice Route Grill,Alleppey,Kerala,Italian,₹₹,717,4.0,Veg,Italian veg restaurant in Alleppey.
+48,Garden Tiffin Room,Alleppey,Kerala,Italian,₹₹,930,4.0,Non-Veg,Italian non-veg restaurant in Alleppey.
+49,Swad Bistro,Alleppey,Kerala,Street Food,₹₹₹₹,3596,4.3,Both,Street Food both restaurant in Alleppey.
+50,Golden Dhaba,Ooty,Tamil Nadu,Tandoor & Grill,₹₹,684,3.3,Both,Tandoor & Grill both restaurant in Ooty.
+51,Curry Leaf Grill,Ooty,Tamil Nadu,Kerala,₹,369,3.8,Non-Veg,Kerala non-veg restaurant in Ooty.
+52,Garden Bistro,Ooty,Tamil Nadu,Goan,₹₹,660,4.4,Both,Goan both restaurant in Ooty.
+53,Red Chili Eatery,Chennai,Tamil Nadu,South Indian,₹₹₹,1488,4.2,Veg,South Indian veg restaurant in Chennai.
+54,Bhukkad Cafe,Chennai,Tamil Nadu,Kerala,₹₹,787,4.1,Both,Kerala both restaurant in Chennai.
+55,Royal Corner,Chennai,Tamil Nadu,Continental,₹,442,4.2,Veg,Continental veg restaurant in Chennai.
+56,Golden Diner,Chennai,Tamil Nadu,North Indian,₹₹,715,3.4,Veg,North Indian veg restaurant in Chennai.
+57,Curry Leaf Foods,Udaipur,Rajasthan,Cafe,₹,361,4.4,Non-Veg,Cafe non-veg restaurant in Udaipur.
+58,Masala Bhavan,Udaipur,Rajasthan,Street Food,₹₹₹,1063,3.8,Veg,Street Food veg restaurant in Udaipur.
+59,Golden House,Shillong,Meghalaya,Chettinad,₹₹,524,4.1,Both,Chettinad both restaurant in Shillong.
+60,Red Chili Kitchen,Shillong,Meghalaya,Continental,₹₹₹,1797,4.0,Both,Continental both restaurant in Shillong.
+61,Rustic Dhaba,Hampi,Karnataka,Tandoor & Grill,₹₹₹,1095,4.5,Veg,Tandoor & Grill veg restaurant in Hampi.
+62,Namak Diner,Hampi,Karnataka,Chettinad,₹,302,4.2,Veg,Chettinad veg restaurant in Hampi.
+63,Golden Junction,Hampi,Karnataka,Goan,₹,356,4.1,Both,Goan both restaurant in Hampi.
+64,Zaika Terrace,Bodh Gaya,Bihar,Chinese,₹₹,795,4.0,Both,Chinese both restaurant in Bodh Gaya.
+65,Bawarchi Junction,Bodh Gaya,Bihar,South Indian,₹₹,805,4.4,Both,South Indian both restaurant in Bodh Gaya.
+66,Golden Junction,Bodh Gaya,Bihar,Italian,₹₹,699,4.7,Both,Italian both restaurant in Bodh Gaya.
+67,Green Leaf Courtyard,Bodh Gaya,Bihar,Punjabi,₹₹,779,4.5,Both,Punjabi both restaurant in Bodh Gaya.
+68,Bamboo Kitchen & Bar,Auli,Uttarakhand,Punjabi,₹,217,3.7,Non-Veg,Punjabi non-veg restaurant in Auli.
+69,Riverside Kitchen & Bar,Auli,Uttarakhand,Bengali,₹₹,506,3.8,Veg,Bengali veg restaurant in Auli.
+70,Tandoor Villa Dhaba,Auli,Uttarakhand,Rajasthani,₹₹₹₹,2826,3.3,Non-Veg,Rajasthani non-veg restaurant in Auli.
+71,Masala Terrace,Tirthan Valley,Himachal Pradesh,Street Food,₹₹₹₹,2525,3.5,Both,Street Food both restaurant in Tirthan Valley.
+72,Heritage Corner,Tirthan Valley,Himachal Pradesh,Rajasthani,₹,367,3.8,Veg,Rajasthani veg restaurant in Tirthan Valley.
+73,Copper Pot Corner,Tirthan Valley,Himachal Pradesh,Chettinad,₹,471,4.2,Both,Chettinad both restaurant in Tirthan Valley.
+74,Garden Corner,Tirthan Valley,Himachal Pradesh,Seafood,₹₹,763,4.2,Veg,Seafood veg restaurant in Tirthan Valley.
+75,Spice Route Restaurant,Tirupati,Andhra Pradesh,Cafe,₹,322,3.6,Both,Cafe both restaurant in Tirupati.
+76,Spice Route House,Tirupati,Andhra Pradesh,Chettinad,₹,298,4.2,Both,Chettinad both restaurant in Tirupati.
+77,Saffron Bistro,Tirupati,Andhra Pradesh,Seafood,₹₹,975,3.9,Veg,Seafood veg restaurant in Tirupati.
+78,Saffron Courtyard,Tirupati,Andhra Pradesh,Seafood,₹,299,3.7,Both,Seafood both restaurant in Tirupati.
+79,Tandoor Villa Grill,Tirupati,Andhra Pradesh,Seafood,₹,410,4.1,Non-Veg,Seafood non-veg restaurant in Tirupati.
+80,Tadka Cafe,Kaziranga,Assam,Punjabi,₹₹₹,1759,4.2,Both,Punjabi both restaurant in Kaziranga.
+81,Tadka Bhavan,Kaziranga,Assam,Kerala,₹₹₹₹,2241,2.8,Both,Kerala both restaurant in Kaziranga.
+82,Zaika Grill,Kaziranga,Assam,Rajasthani,₹,324,3.3,Both,Rajasthani both restaurant in Kaziranga.
+83,Blue Ginger House,Kaziranga,Assam,Punjabi,₹₹,627,4.1,Both,Punjabi both restaurant in Kaziranga.
+84,Garden Diner,Kaziranga,Assam,Goan,₹₹,856,4.1,Both,Goan both restaurant in Kaziranga.
+85,Copper Pot Dhaba,Kasol,Himachal Pradesh,Continental,₹,210,3.7,Non-Veg,Continental non-veg restaurant in Kasol.
+86,Copper Pot House,Kasol,Himachal Pradesh,Kerala,₹₹₹₹,3435,3.6,Non-Veg,Kerala non-veg restaurant in Kasol.
+87,Curry Leaf Foods,Kasol,Himachal Pradesh,Mughlai,₹,204,4.0,Non-Veg,Mughlai non-veg restaurant in Kasol.
+88,The Terrace Corner,Khajjiar,Himachal Pradesh,Punjabi,₹,375,3.6,Both,Punjabi both restaurant in Khajjiar.
+89,Old Town Grill,Khajjiar,Himachal Pradesh,Bengali,₹₹,517,4.0,Both,Bengali both restaurant in Khajjiar.
+90,Green Leaf Eatery,Khajjiar,Himachal Pradesh,Kerala,₹₹₹,1183,4.1,Both,Kerala both restaurant in Khajjiar.
+91,Saffron Dhaba,Chamba,Himachal Pradesh,Tandoor & Grill,₹,255,4.2,Veg,Tandoor & Grill veg restaurant in Chamba.
+92,Red Chili Grill,Chamba,Himachal Pradesh,Punjabi,₹₹,612,3.9,Both,Punjabi both restaurant in Chamba.
+93,Namak Corner,Narkanda,Himachal Pradesh,Cafe,₹₹,799,3.7,Both,Cafe both restaurant in Narkanda.
+94,Old Town Foods,Narkanda,Himachal Pradesh,Seafood,₹₹₹,1186,4.2,Veg,Seafood veg restaurant in Narkanda.
+95,Curry Leaf Kitchen & Bar,Narkanda,Himachal Pradesh,Cafe,₹₹₹,1669,4.1,Both,Cafe both restaurant in Narkanda.
+96,Mishti Grill,Manas National Park,Assam,Chinese,₹,413,4.2,Both,Chinese both restaurant in Manas National Park.
+97,Namak Bhavan,Manas National Park,Assam,South Indian,₹₹₹,1454,4.6,Both,South Indian both restaurant in Manas National Park.
+98,Red Chili House,Manas National Park,Assam,Rajasthani,₹,469,4.1,Veg,Rajasthani veg restaurant in Manas National Park.
+99,The Terrace Corner,Manas National Park,Assam,Rajasthani,₹₹,984,4.4,Veg,Rajasthani veg restaurant in Manas National Park.
+100,Urban Junction,Shimla,Himachal Pradesh,Tandoor & Grill,₹₹,786,4.3,Both,Tandoor & Grill both restaurant in Shimla.
+101,Blue Ginger Kitchen & Bar,Shimla,Himachal Pradesh,Chinese,₹₹₹,1101,4.4,Both,Chinese both restaurant in Shimla.
+102,Tadka Cafe,Shimla,Himachal Pradesh,Italian,₹₹₹,1509,5.0,Both,Italian both restaurant in Shimla.
+103,Bhukkad Kitchen & Bar,Shimla,Himachal Pradesh,Mughlai,₹₹,549,4.0,Non-Veg,Mughlai non-veg restaurant in Shimla.
+104,Green Leaf Dhaba,Sarahan,Himachal Pradesh,South Indian,₹,455,4.7,Veg,South Indian veg restaurant in Sarahan.
+105,Local Bhavan,Sarahan,Himachal Pradesh,Goan,₹₹,791,4.4,Veg,Goan veg restaurant in Sarahan.
+106,The Spice Cafe,Sarahan,Himachal Pradesh,Continental,₹₹,784,4.2,Both,Continental both restaurant in Sarahan.
+107,Zaika Corner,Sarahan,Himachal Pradesh,Kerala,₹,443,3.7,Both,Kerala both restaurant in Sarahan.
+108,Coastal Bhavan,Manali,Himachal Pradesh,Rajasthani,₹₹,515,3.8,Both,Rajasthani both restaurant in Manali.
+109,Bawarchi Restaurant,Manali,Himachal Pradesh,Punjabi,₹₹₹,1539,4.2,Both,Punjabi both restaurant in Manali.
+110,The Spice Corner,Nalanda,Bihar,Gujarati,₹₹,962,4.2,Both,Gujarati both restaurant in Nalanda.
+111,Green Leaf Eatery,Nalanda,Bihar,Punjabi,₹₹₹,1595,4.7,Veg,Punjabi veg restaurant in Nalanda.
+112,Blue Ginger Eatery,Nalanda,Bihar,Gujarati,₹,296,3.8,Veg,Gujarati veg restaurant in Nalanda.
+113,Copper Pot Restaurant,Nalanda,Bihar,Punjabi,₹₹₹₹,2704,4.6,Both,Punjabi both restaurant in Nalanda.
+114,Southern Spice Grill,Nalanda,Bihar,Seafood,₹₹₹,1527,4.3,Both,Seafood both restaurant in Nalanda.
+115,Saffron Bistro,Patna,Bihar,Bengali,₹,470,4.2,Non-Veg,Bengali non-veg restaurant in Patna.
+116,Golden Bistro,Patna,Bihar,Continental,₹₹₹,1806,4.0,Veg,Continental veg restaurant in Patna.
+117,Bawarchi Kitchen & Bar,Patna,Bihar,Continental,₹₹,964,3.9,Non-Veg,Continental non-veg restaurant in Patna.
+118,Namak Cafe,Patna,Bihar,South Indian,₹₹₹,1892,3.6,Veg,South Indian veg restaurant in Patna.
+119,Spice Route Bhavan,Patna,Bihar,Multi-cuisine,₹,472,3.7,Non-Veg,Multi-cuisine non-veg restaurant in Patna.
+120,The Terrace Dhaba,Jaisalmer,Rajasthan,Continental,₹,386,4.1,Veg,Continental veg restaurant in Jaisalmer.
+121,Royal Kitchen & Bar,Jaisalmer,Rajasthan,Italian,₹,272,3.7,Both,Italian both restaurant in Jaisalmer.
+122,Garden Dhaba,New Delhi,Delhi,Continental,₹₹,648,4.3,Veg,Continental veg restaurant in New Delhi.
+123,Masala Cafe,New Delhi,Delhi,Multi-cuisine,₹₹,730,4.1,Non-Veg,Multi-cuisine non-veg restaurant in New Delhi.
+124,Spice Route Cafe,Cherrapunji,Meghalaya,Chinese,₹₹₹,1207,4.2,Both,Chinese both restaurant in Cherrapunji.
+125,The Spice Corner,Cherrapunji,Meghalaya,Goan,₹₹₹,1051,3.7,Veg,Goan veg restaurant in Cherrapunji.
+126,Golden Bhavan,Cherrapunji,Meghalaya,Continental,₹₹₹,1127,4.2,Non-Veg,Continental non-veg restaurant in Cherrapunji.
+127,Heritage Foods,Cherrapunji,Meghalaya,North Indian,₹₹,517,3.5,Both,North Indian both restaurant in Cherrapunji.
+128,Bawarchi House,Itanagar,Arunachal Pradesh,Seafood,₹₹₹,1888,4.3,Non-Veg,Seafood non-veg restaurant in Itanagar.
+129,Southern Spice Cafe,Itanagar,Arunachal Pradesh,Goan,₹,452,4.6,Both,Goan both restaurant in Itanagar.
+130,Golden Tiffin Room,Tawang,Arunachal Pradesh,Goan,₹₹,643,4.6,Veg,Goan veg restaurant in Tawang.
+131,Spice Route Corner,Tawang,Arunachal Pradesh,Goan,₹₹,815,4.0,Both,Goan both restaurant in Tawang.
+132,Rustic Cafe,Tawang,Arunachal Pradesh,Punjabi,₹,415,3.4,Both,Punjabi both restaurant in Tawang.
+133,Curry Leaf Restaurant,Kaithal,Haryana,Tandoor & Grill,₹₹,867,3.5,Both,Tandoor & Grill both restaurant in Kaithal.
+134,Urban House,Kaithal,Haryana,Rajasthani,₹₹,969,4.2,Veg,Rajasthani veg restaurant in Kaithal.
+135,Coastal Tiffin Room,Kaithal,Haryana,Street Food,₹,277,4.1,Veg,Street Food veg restaurant in Kaithal.
+136,Namak Terrace,Kaithal,Haryana,Chinese,₹₹₹₹,2707,4.0,Veg,Chinese veg restaurant in Kaithal.
+137,Southern Spice Bhavan,Kaithal,Haryana,Mughlai,₹₹₹,1296,4.0,Both,Mughlai both restaurant in Kaithal.
+138,Tandoor Villa House,Kohima,Nagaland,Rajasthani,₹₹,952,3.8,Non-Veg,Rajasthani non-veg restaurant in Kohima.
+139,Coastal Courtyard,Kohima,Nagaland,Mughlai,₹₹₹,1518,3.7,Veg,Mughlai veg restaurant in Kohima.
+140,Southern Spice Corner,Kumbhalgarh,Rajasthan,Rajasthani,₹,458,4.2,Both,Rajasthani both restaurant in Kumbhalgarh.
+141,Copper Pot Restaurant,Kumbhalgarh,Rajasthan,Seafood,₹,236,3.7,Veg,Seafood veg restaurant in Kumbhalgarh.
+142,Red Chili Junction,Kumbhalgarh,Rajasthan,Cafe,₹₹₹,1158,4.3,Veg,Cafe veg restaurant in Kumbhalgarh.
+143,Southern Spice Diner,Kumbhalgarh,Rajasthan,Tandoor & Grill,₹₹,893,3.8,Both,Tandoor & Grill both restaurant in Kumbhalgarh.
+144,Curry Leaf Restaurant,Anandpur Sahib,Punjab,Tandoor & Grill,₹,303,4.6,Both,Tandoor & Grill both restaurant in Anandpur Sahib.
+145,Heritage Bistro,Anandpur Sahib,Punjab,Street Food,₹₹,855,4.4,Veg,Street Food veg restaurant in Anandpur Sahib.
+146,Blue Ginger Cafe,Anandpur Sahib,Punjab,Punjabi,₹₹,693,4.0,Veg,Punjabi veg restaurant in Anandpur Sahib.
+147,Rustic Dhaba,Anandpur Sahib,Punjab,Continental,₹₹₹₹,3060,4.4,Both,Continental both restaurant in Anandpur Sahib.
+148,Royal Tiffin Room,Anandpur Sahib,Punjab,Rajasthani,₹,268,4.0,Veg,Rajasthani veg restaurant in Anandpur Sahib.
+149,Masala Tiffin Room,Port Blair,Andaman and Nicobar Islands,Italian,₹,387,4.0,Both,Italian both restaurant in Port Blair.
+150,Swad Bhavan,Port Blair,Andaman and Nicobar Islands,Chettinad,₹,433,3.8,Veg,Chettinad veg restaurant in Port Blair.
+151,Tadka Eatery,Port Blair,Andaman and Nicobar Islands,Mughlai,₹,221,4.0,Both,Mughlai both restaurant in Port Blair.
+152,Tandoor Villa Junction,Port Blair,Andaman and Nicobar Islands,Cafe,₹₹,530,3.1,Non-Veg,Cafe non-veg restaurant in Port Blair.
+153,Garden Cafe,Port Blair,Andaman and Nicobar Islands,Italian,₹,455,4.0,Both,Italian both restaurant in Port Blair.
+154,Zaika Dhaba,Palolem,Goa,Kerala,₹,401,3.6,Both,Kerala both restaurant in Palolem.
+155,Southern Spice Restaurant,Palolem,Goa,Kerala,₹₹,832,4.0,Non-Veg,Kerala non-veg restaurant in Palolem.
+156,Urban Eatery,Sawai Madhopur,Rajasthan,Multi-cuisine,₹₹₹₹,2675,3.7,Veg,Multi-cuisine veg restaurant in Sawai Madhopur.
+157,Curry Leaf Bistro,Sawai Madhopur,Rajasthan,Continental,₹,200,3.9,Veg,Continental veg restaurant in Sawai Madhopur.
+158,Garden Terrace,Sawai Madhopur,Rajasthan,Continental,₹,366,3.5,Veg,Continental veg restaurant in Sawai Madhopur.
+159,Saffron Eatery,Sawai Madhopur,Rajasthan,Cafe,₹₹₹₹,3046,4.2,Both,Cafe both restaurant in Sawai Madhopur.
+160,The Terrace House,Kovalam,Kerala,Bengali,₹,343,3.8,Both,Bengali both restaurant in Kovalam.
+161,Bawarchi Dhaba,Kovalam,Kerala,Continental,₹₹,655,4.6,Veg,Continental veg restaurant in Kovalam.
+162,Urban Terrace,Varkala,Kerala,Street Food,₹₹₹,1053,4.2,Both,Street Food both restaurant in Varkala.
+163,Old Town Kitchen & Bar,Varkala,Kerala,North Indian,₹₹,557,3.7,Both,North Indian both restaurant in Varkala.
+164,Swad Junction,Chandigarh,Punjab,Goan,₹₹₹,1077,4.2,Both,Goan both restaurant in Chandigarh.
+165,Heritage Eatery,Chandigarh,Punjab,Kerala,₹₹,528,4.2,Both,Kerala both restaurant in Chandigarh.
+166,Garden Foods,Chandigarh,Punjab,Chinese,₹₹₹,1171,4.1,Both,Chinese both restaurant in Chandigarh.
+167,Royal Cafe,Chandigarh,Punjab,Street Food,₹,311,4.0,Both,Street Food both restaurant in Chandigarh.
+168,The Terrace Dhaba,Havelock Island,Andaman and Nicobar Islands,Italian,₹₹₹,1140,4.4,Both,Italian both restaurant in Havelock Island.
+169,Tadka Grill,Havelock Island,Andaman and Nicobar Islands,Bengali,₹₹₹,1109,3.3,Both,Bengali both restaurant in Havelock Island.
+170,Old Town Dhaba,Bilaspur,Chhattisgarh,Goan,₹₹₹₹,2254,4.0,Non-Veg,Goan non-veg restaurant in Bilaspur.
+171,Golden Junction,Bilaspur,Chhattisgarh,Rajasthani,₹₹₹,1709,3.9,Both,Rajasthani both restaurant in Bilaspur.
+172,Heritage Bistro,Bilaspur,Chhattisgarh,Mughlai,₹₹₹,1152,3.8,Both,Mughlai both restaurant in Bilaspur.
+173,The Terrace Kitchen & Bar,Bilaspur,Chhattisgarh,Tandoor & Grill,₹,248,3.7,Veg,Tandoor & Grill veg restaurant in Bilaspur.
+174,Masala Bhavan,Jagdalpur,Chhattisgarh,Punjabi,₹₹,682,3.8,Veg,Punjabi veg restaurant in Jagdalpur.
+175,Saffron Dhaba,Jagdalpur,Chhattisgarh,Goan,₹₹₹,1717,3.2,Both,Goan both restaurant in Jagdalpur.
+176,Golden House,Saputara,Gujarat,Tandoor & Grill,₹₹,987,3.8,Both,Tandoor & Grill both restaurant in Saputara.
+177,Blue Ginger Dhaba,Saputara,Gujarat,Cafe,₹₹₹,1925,4.2,Both,Cafe both restaurant in Saputara.
+178,Curry Leaf Bistro,Saputara,Gujarat,Street Food,₹₹₹,1865,3.9,Both,Street Food both restaurant in Saputara.
+179,Bawarchi Restaurant,Panna,Madhya Pradesh,Street Food,₹,323,3.9,Veg,Street Food veg restaurant in Panna.
+180,Urban Kitchen,Panna,Madhya Pradesh,Kerala,₹₹₹₹,4152,3.3,Veg,Kerala veg restaurant in Panna.
+181,Green Leaf Kitchen & Bar,Panna,Madhya Pradesh,Seafood,₹₹₹,1996,3.7,Non-Veg,Seafood non-veg restaurant in Panna.
+182,Green Leaf Dhaba,Panna,Madhya Pradesh,Continental,₹₹,694,3.4,Both,Continental both restaurant in Panna.
+183,Local Foods,Panna,Madhya Pradesh,Italian,₹₹,822,4.4,Both,Italian both restaurant in Panna.
+184,Bhukkad Diner,Bhopal,Madhya Pradesh,South Indian,₹₹,648,4.1,Both,South Indian both restaurant in Bhopal.
+185,Coastal Bistro,Bhopal,Madhya Pradesh,Chinese,₹,476,4.2,Veg,Chinese veg restaurant in Bhopal.
+186,Southern Spice House,Arambol,Goa,North Indian,₹₹,788,4.5,Veg,North Indian veg restaurant in Arambol.
+187,Old Town Kitchen & Bar,Arambol,Goa,Chinese,₹₹,638,4.4,Veg,Chinese veg restaurant in Arambol.
+188,Tandoor Villa Tiffin Room,Arambol,Goa,North Indian,₹₹,819,4.4,Veg,North Indian veg restaurant in Arambol.
+189,Tandoor Villa Eatery,Kabini,Karnataka,Tandoor & Grill,₹₹₹,1745,3.4,Veg,Tandoor & Grill veg restaurant in Kabini.
+190,Old Town Restaurant,Kabini,Karnataka,Continental,₹,387,4.2,Veg,Continental veg restaurant in Kabini.
+191,Tadka Tiffin Room,Kabini,Karnataka,Street Food,₹₹,737,4.1,Both,Street Food both restaurant in Kabini.
+192,Blue Ginger Junction,Kabini,Karnataka,Gujarati,₹,391,4.7,Both,Gujarati both restaurant in Kabini.
+193,Bhukkad Kitchen,Kabini,Karnataka,Kerala,₹₹,861,3.5,Veg,Kerala veg restaurant in Kabini.
+194,Bhukkad Courtyard,Mysore,Karnataka,Italian,₹,348,4.6,Both,Italian both restaurant in Mysore.
+195,Spice Route Junction,Mysore,Karnataka,Street Food,₹₹₹,1978,3.7,Non-Veg,Street Food non-veg restaurant in Mysore.
+196,Southern Spice Junction,Mysore,Karnataka,Italian,₹₹₹,1851,5.0,Non-Veg,Italian non-veg restaurant in Mysore.
+197,Old Town Junction,Mysore,Karnataka,South Indian,₹₹,896,3.8,Non-Veg,South Indian non-veg restaurant in Mysore.
+198,Masala Grill,Mysore,Karnataka,Italian,₹₹₹,1841,4.2,Both,Italian both restaurant in Mysore.
+199,Green Leaf Diner,Sirpur,Chhattisgarh,South Indian,₹,209,4.0,Both,South Indian both restaurant in Sirpur.
+200,Copper Pot Corner,Sirpur,Chhattisgarh,Rajasthani,₹,401,4.7,Veg,Rajasthani veg restaurant in Sirpur.
+201,Zaika Courtyard,Kolhapur,Maharashtra,Punjabi,₹,308,4.0,Both,Punjabi both restaurant in Kolhapur.
+202,Old Town Tiffin Room,Kolhapur,Maharashtra,Bengali,₹,235,3.8,Non-Veg,Bengali non-veg restaurant in Kolhapur.
+203,Royal Kitchen,Kolhapur,Maharashtra,Bengali,₹₹₹,1604,3.2,Non-Veg,Bengali non-veg restaurant in Kolhapur.
+204,Bawarchi House,Kolhapur,Maharashtra,Punjabi,₹,483,4.4,Both,Punjabi both restaurant in Kolhapur.
+205,Bawarchi Tiffin Room,Pahalgam,Jammu and Kashmir,Seafood,₹₹₹₹,3791,3.6,Both,Seafood both restaurant in Pahalgam.
+206,Red Chili Diner,Pahalgam,Jammu and Kashmir,Bengali,₹₹₹,1227,3.6,Non-Veg,Bengali non-veg restaurant in Pahalgam.
+207,Saffron Dhaba,Pahalgam,Jammu and Kashmir,North Indian,₹₹₹₹,3171,4.1,Both,North Indian both restaurant in Pahalgam.
+208,Riverside Junction,Sattal,Uttarakhand,Kerala,₹,307,3.5,Both,Kerala both restaurant in Sattal.
+209,The Terrace Kitchen,Sattal,Uttarakhand,Cafe,₹,200,3.3,Both,Cafe both restaurant in Sattal.
+210,Coastal Bhavan,Sattal,Uttarakhand,Rajasthani,₹₹,638,4.2,Both,Rajasthani both restaurant in Sattal.
+211,Heritage Junction,Sattal,Uttarakhand,Street Food,₹₹₹,1733,3.0,Both,Street Food both restaurant in Sattal.
+212,Tadka Terrace,Pichavaram,Tamil Nadu,Street Food,₹₹,651,4.2,Both,Street Food both restaurant in Pichavaram.
+213,Zaika Grill,Pichavaram,Tamil Nadu,Italian,₹₹,517,4.7,Both,Italian both restaurant in Pichavaram.
+214,Heritage Foods,Yercaud,Tamil Nadu,Tandoor & Grill,₹₹,533,4.0,Both,Tandoor & Grill both restaurant in Yercaud.
+215,Bhukkad Restaurant,Yercaud,Tamil Nadu,Tandoor & Grill,₹₹₹,1856,4.5,Both,Tandoor & Grill both restaurant in Yercaud.
+216,Local Junction,Yercaud,Tamil Nadu,Bengali,₹,269,4.7,Both,Bengali both restaurant in Yercaud.
+217,Mishti Dhaba,Nagarjuna Sagar,Telangana,Street Food,₹₹,559,4.6,Both,Street Food both restaurant in Nagarjuna Sagar.
+218,Green Leaf Tiffin Room,Nagarjuna Sagar,Telangana,Street Food,₹₹,645,3.8,Non-Veg,Street Food non-veg restaurant in Nagarjuna Sagar.
+219,Blue Ginger Corner,Nagarjuna Sagar,Telangana,Continental,₹₹,650,3.9,Both,Continental both restaurant in Nagarjuna Sagar.
+220,Golden House,Nagarjuna Sagar,Telangana,Bengali,₹₹,1000,3.9,Both,Bengali both restaurant in Nagarjuna Sagar.
+221,Tadka House,Ramnagar,Uttarakhand,Chettinad,₹₹,751,3.4,Both,Chettinad both restaurant in Ramnagar.
+222,Red Chili Junction,Ramnagar,Uttarakhand,Continental,₹₹₹,1835,4.9,Both,Continental both restaurant in Ramnagar.
+223,Riverside Foods,Ramnagar,Uttarakhand,Mughlai,₹₹₹₹,3497,4.4,Both,Mughlai both restaurant in Ramnagar.
+224,Royal House,Kolkata,West Bengal,Rajasthani,₹₹₹,1875,3.8,Both,Rajasthani both restaurant in Kolkata.
+225,Bamboo Terrace,Kolkata,West Bengal,Punjabi,₹₹,971,4.0,Both,Punjabi both restaurant in Kolkata.
+226,Green Leaf Bhavan,Sundarbans,West Bengal,Mughlai,₹,208,3.7,Both,Mughlai both restaurant in Sundarbans.
+227,The Terrace Courtyard,Sundarbans,West Bengal,Goan,₹₹,722,4.5,Non-Veg,Goan non-veg restaurant in Sundarbans.
+228,Bamboo Courtyard,Sundarbans,West Bengal,Rajasthani,₹₹₹,1222,4.2,Both,Rajasthani both restaurant in Sundarbans.
+229,Namak Junction,Sundarbans,West Bengal,Seafood,₹₹₹,1510,3.9,Non-Veg,Seafood non-veg restaurant in Sundarbans.
+230,Tadka Courtyard,Bakkhali,West Bengal,South Indian,₹,488,3.8,Both,South Indian both restaurant in Bakkhali.
+231,Copper Pot Courtyard,Bakkhali,West Bengal,Mughlai,₹₹₹₹,4204,4.0,Both,Mughlai both restaurant in Bakkhali.
+232,Coastal Diner,Kollam,Kerala,Seafood,₹₹₹,1643,4.1,Veg,Seafood veg restaurant in Kollam.
+233,Old Town Restaurant,Kollam,Kerala,Punjabi,₹₹,905,4.0,Both,Punjabi both restaurant in Kollam.
+234,Saffron Diner,Kollam,Kerala,Seafood,₹,335,4.1,Veg,Seafood veg restaurant in Kollam.
+235,Red Chili Kitchen & Bar,Kollam,Kerala,Continental,₹₹₹,1592,4.0,Veg,Continental veg restaurant in Kollam.
+236,Swad Kitchen & Bar,Kollam,Kerala,Italian,₹₹,553,4.1,Veg,Italian veg restaurant in Kollam.
+237,Tadka Diner,Zuluk,Sikkim,Punjabi,₹₹₹₹,2400,3.6,Both,Punjabi both restaurant in Zuluk.
+238,Bawarchi Restaurant,Zuluk,Sikkim,Chettinad,₹₹₹₹,3518,4.3,Both,Chettinad both restaurant in Zuluk.
+239,Local Eatery,Zuluk,Sikkim,Punjabi,₹₹,778,3.5,Veg,Punjabi veg restaurant in Zuluk.
+240,Coastal Foods,Zuluk,Sikkim,South Indian,₹₹₹₹,2318,3.8,Non-Veg,South Indian non-veg restaurant in Zuluk.
+241,Green Leaf Terrace,Zuluk,Sikkim,Kerala,₹,310,3.4,Both,Kerala both restaurant in Zuluk.
+242,Spice Route Diner,Tsomgo Lake,Sikkim,Mughlai,₹,267,4.0,Both,Mughlai both restaurant in Tsomgo Lake.
+243,Saffron Foods,Tsomgo Lake,Sikkim,Chinese,₹,217,4.1,Both,Chinese both restaurant in Tsomgo Lake.
+244,Royal Cafe,Tsomgo Lake,Sikkim,North Indian,₹,296,4.4,Non-Veg,North Indian non-veg restaurant in Tsomgo Lake.
+245,Old Town Corner,Tsomgo Lake,Sikkim,Bengali,₹₹₹,1444,4.1,Veg,Bengali veg restaurant in Tsomgo Lake.
+246,Mishti Kitchen & Bar,Tsomgo Lake,Sikkim,Goan,₹,414,4.1,Non-Veg,Goan non-veg restaurant in Tsomgo Lake.
+247,Old Town Courtyard,Bidar,Karnataka,Tandoor & Grill,₹,255,3.8,Both,Tandoor & Grill both restaurant in Bidar.
+248,Masala Bistro,Bidar,Karnataka,Tandoor & Grill,₹₹₹,1433,3.4,Veg,Tandoor & Grill veg restaurant in Bidar.
+249,Tadka Tiffin Room,Bidar,Karnataka,Continental,₹,225,4.4,Both,Continental both restaurant in Bidar.
+250,Saffron Corner,Bidar,Karnataka,Cafe,₹,319,3.9,Both,Cafe both restaurant in Bidar.
+251,Urban Bistro,Sringeri,Karnataka,Kerala,₹₹₹,1634,4.2,Both,Kerala both restaurant in Sringeri.
+252,Urban Foods,Sringeri,Karnataka,Chinese,₹₹₹,1231,4.5,Both,Chinese both restaurant in Sringeri.
+253,Bamboo Bhavan,Sringeri,Karnataka,Chettinad,₹₹₹,1149,4.1,Both,Chettinad both restaurant in Sringeri.
+254,Golden Restaurant,Sringeri,Karnataka,Goan,₹₹₹,1605,3.8,Veg,Goan veg restaurant in Sringeri.
+255,Southern Spice Bhavan,Sringeri,Karnataka,Mughlai,₹₹,990,3.6,Both,Mughlai both restaurant in Sringeri.
+256,Coastal Bhavan,Chitrakoot,Uttar Pradesh,Punjabi,₹₹,828,4.4,Both,Punjabi both restaurant in Chitrakoot.
+257,Southern Spice Courtyard,Chitrakoot,Uttar Pradesh,Kerala,₹₹₹₹,2187,3.7,Both,Kerala both restaurant in Chitrakoot.
+258,Rustic House,Leh,Ladakh,Rajasthani,₹₹,538,3.8,Non-Veg,Rajasthani non-veg restaurant in Leh.
+259,The Terrace Bistro,Leh,Ladakh,Kerala,₹₹,833,3.5,Veg,Kerala veg restaurant in Leh.
+260,Saffron Restaurant,Leh,Ladakh,Gujarati,₹₹,676,4.6,Both,Gujarati both restaurant in Leh.
+261,Mishti Bhavan,Leh,Ladakh,Mughlai,₹₹,694,4.2,Non-Veg,Mughlai non-veg restaurant in Leh.
+262,Copper Pot House,Leh,Ladakh,Multi-cuisine,₹₹,612,3.6,Both,Multi-cuisine both restaurant in Leh.
+263,Saffron Kitchen,Hassan,Karnataka,Kerala,₹,400,4.0,Both,Kerala both restaurant in Hassan.
+264,Local Grill,Hassan,Karnataka,Gujarati,₹,260,3.8,Both,Gujarati both restaurant in Hassan.
+265,Bawarchi Restaurant,Hassan,Karnataka,Cafe,₹₹,679,3.7,Both,Cafe both restaurant in Hassan.
+266,Tandoor Villa Cafe,Hassan,Karnataka,Italian,₹,445,4.5,Non-Veg,Italian non-veg restaurant in Hassan.
+267,Local Junction,Hassan,Karnataka,Kerala,₹₹,906,3.8,Veg,Kerala veg restaurant in Hassan.
+268,Bamboo Courtyard,Vijayawada,Andhra Pradesh,Rajasthani,₹₹,849,4.0,Both,Rajasthani both restaurant in Vijayawada.
+269,Old Town Dhaba,Vijayawada,Andhra Pradesh,Seafood,₹₹₹,1464,4.7,Both,Seafood both restaurant in Vijayawada.
+270,Curry Leaf Diner,Vijayawada,Andhra Pradesh,Punjabi,₹₹,554,4.1,Non-Veg,Punjabi non-veg restaurant in Vijayawada.
+271,Bamboo Junction,Bhongir,Telangana,South Indian,₹₹₹₹,3571,3.7,Both,South Indian both restaurant in Bhongir.
+272,Tadka Dhaba,Bhongir,Telangana,Bengali,₹₹,604,4.6,Both,Bengali both restaurant in Bhongir.
+273,Garden Corner,Bhongir,Telangana,Continental,₹₹,983,4.1,Non-Veg,Continental non-veg restaurant in Bhongir.
+274,Royal Junction,Bhongir,Telangana,Kerala,₹,339,4.6,Both,Kerala both restaurant in Bhongir.
+275,Saffron Diner,Bhongir,Telangana,Tandoor & Grill,₹₹,714,4.1,Veg,Tandoor & Grill veg restaurant in Bhongir.
+276,Namak Courtyard,Visakhapatnam,Andhra Pradesh,North Indian,₹₹,827,5.0,Both,North Indian both restaurant in Visakhapatnam.
+277,Rustic Diner,Visakhapatnam,Andhra Pradesh,Chinese,₹,293,4.2,Both,Chinese both restaurant in Visakhapatnam.
+278,Local Bhavan,Visakhapatnam,Andhra Pradesh,Rajasthani,₹₹₹,1817,3.7,Both,Rajasthani both restaurant in Visakhapatnam.
+279,Copper Pot Corner,Visakhapatnam,Andhra Pradesh,Rajasthani,₹,275,4.0,Veg,Rajasthani veg restaurant in Visakhapatnam.
+280,Local Bistro,Jhansi,Uttar Pradesh,Rajasthani,₹₹₹,1134,4.0,Both,Rajasthani both restaurant in Jhansi.
+281,Riverside Kitchen & Bar,Jhansi,Uttar Pradesh,Italian,₹,486,4.3,Non-Veg,Italian non-veg restaurant in Jhansi.
+282,Old Town Kitchen & Bar,Jhansi,Uttar Pradesh,Bengali,₹₹₹,1559,3.6,Veg,Bengali veg restaurant in Jhansi.
+283,Red Chili Diner,Jhansi,Uttar Pradesh,Chettinad,₹₹,718,4.1,Both,Chettinad both restaurant in Jhansi.
+284,Namak Kitchen,Baramulla,Jammu and Kashmir,Goan,₹₹₹₹,4311,4.5,Non-Veg,Goan non-veg restaurant in Baramulla.
+285,Golden House,Baramulla,Jammu and Kashmir,Multi-cuisine,₹₹₹₹,4157,3.7,Both,Multi-cuisine both restaurant in Baramulla.
+286,Urban Eatery,Baramulla,Jammu and Kashmir,Street Food,₹,228,4.2,Both,Street Food both restaurant in Baramulla.
+287,Mishti Kitchen & Bar,Madurai,Tamil Nadu,Rajasthani,₹,283,4.1,Veg,Rajasthani veg restaurant in Madurai.
+288,Tadka Dhaba,Madurai,Tamil Nadu,Tandoor & Grill,₹₹,675,4.4,Both,Tandoor & Grill both restaurant in Madurai.
+289,Zaika Eatery,Madurai,Tamil Nadu,Chettinad,₹,438,3.9,Non-Veg,Chettinad non-veg restaurant in Madurai.
+290,Tadka Tiffin Room,Madurai,Tamil Nadu,Multi-cuisine,₹₹₹,1688,4.8,Both,Multi-cuisine both restaurant in Madurai.
+291,Local Terrace,Gwalior,Madhya Pradesh,Punjabi,₹₹,955,4.0,Non-Veg,Punjabi non-veg restaurant in Gwalior.
+292,Old Town Eatery,Gwalior,Madhya Pradesh,Punjabi,₹₹₹₹,3781,4.1,Veg,Punjabi veg restaurant in Gwalior.
+293,Saffron Diner,Gwalior,Madhya Pradesh,Tandoor & Grill,₹,370,4.2,Veg,Tandoor & Grill veg restaurant in Gwalior.
+294,Southern Spice Courtyard,Gwalior,Madhya Pradesh,Gujarati,₹₹,744,3.6,Both,Gujarati both restaurant in Gwalior.
+295,Garden Grill,Vadodara,Gujarat,Rajasthani,₹₹₹,1952,3.9,Veg,Rajasthani veg restaurant in Vadodara.
+296,Copper Pot House,Vadodara,Gujarat,Seafood,₹₹₹,1733,4.2,Both,Seafood both restaurant in Vadodara.
+297,Masala Bistro,Vadodara,Gujarat,Continental,₹,450,5.0,Non-Veg,Continental non-veg restaurant in Vadodara.
+298,Green Leaf Foods,Vadodara,Gujarat,Continental,₹₹,933,3.3,Veg,Continental veg restaurant in Vadodara.
+299,Riverside Junction,Adilabad,Telangana,Chettinad,₹,207,3.5,Veg,Chettinad veg restaurant in Adilabad.
+300,Bhukkad Bhavan,Adilabad,Telangana,Seafood,₹₹₹₹,4172,3.6,Both,Seafood both restaurant in Adilabad.
+301,Namak Bistro,Siliguri,West Bengal,Goan,₹₹₹,1787,3.7,Both,Goan both restaurant in Siliguri.
+302,Local Bhavan,Siliguri,West Bengal,Goan,₹₹,671,3.7,Veg,Goan veg restaurant in Siliguri.
+303,Zaika Grill,Siliguri,West Bengal,Bengali,₹₹,597,4.0,Both,Bengali both restaurant in Siliguri.
+304,Heritage Tiffin Room,Siliguri,West Bengal,Gujarati,₹₹₹,1912,3.9,Non-Veg,Gujarati non-veg restaurant in Siliguri.
+305,Blue Ginger Bistro,Siliguri,West Bengal,Mughlai,₹₹,662,4.2,Both,Mughlai both restaurant in Siliguri.
+306,Masala Dhaba,Gangtok,Sikkim,Rajasthani,₹₹₹,1066,3.7,Both,Rajasthani both restaurant in Gangtok.
+307,Green Leaf House,Gangtok,Sikkim,Seafood,₹₹₹,1464,4.5,Both,Seafood both restaurant in Gangtok.
+308,Rustic Terrace,Maheshwar,Madhya Pradesh,Multi-cuisine,₹₹,579,4.1,Both,Multi-cuisine both restaurant in Maheshwar.
+309,Copper Pot Foods,Maheshwar,Madhya Pradesh,Multi-cuisine,₹₹₹,1748,4.6,Both,Multi-cuisine both restaurant in Maheshwar.
+310,Bhukkad Bistro,Maheshwar,Madhya Pradesh,Seafood,₹₹₹,1177,4.3,Both,Seafood both restaurant in Maheshwar.
+311,Mishti Grill,Maheshwar,Madhya Pradesh,Tandoor & Grill,₹₹,751,3.4,Both,Tandoor & Grill both restaurant in Maheshwar.
+312,Golden Grill,Maheshwar,Madhya Pradesh,South Indian,₹₹₹,1207,3.8,Veg,South Indian veg restaurant in Maheshwar.
+313,Heritage Bhavan,Kumbakonam,Tamil Nadu,Seafood,₹,403,3.7,Veg,Seafood veg restaurant in Kumbakonam.
+314,Bhukkad Eatery,Kumbakonam,Tamil Nadu,Mughlai,₹₹₹,1822,3.9,Both,Mughlai both restaurant in Kumbakonam.
+315,Riverside Bhavan,Kumbakonam,Tamil Nadu,Italian,₹₹,910,3.4,Both,Italian both restaurant in Kumbakonam.
+316,Tadka Dhaba,Kumbakonam,Tamil Nadu,Italian,₹,467,3.6,Both,Italian both restaurant in Kumbakonam.
+317,Coastal Kitchen,Almora,Uttarakhand,North Indian,₹,340,3.4,Veg,North Indian veg restaurant in Almora.
+318,Urban Junction,Almora,Uttarakhand,Continental,₹,381,3.4,Non-Veg,Continental non-veg restaurant in Almora.
+319,Saffron Foods,Almora,Uttarakhand,Continental,₹₹,784,4.0,Non-Veg,Continental non-veg restaurant in Almora.
+320,Local Dhaba,Ranikhet,Uttarakhand,Tandoor & Grill,₹₹,980,4.0,Both,Tandoor & Grill both restaurant in Ranikhet.
+321,Bamboo Diner,Ranikhet,Uttarakhand,Multi-cuisine,₹₹₹,1368,3.6,Veg,Multi-cuisine veg restaurant in Ranikhet.
+322,Bamboo Tiffin Room,Ranikhet,Uttarakhand,Goan,₹₹₹,1522,3.5,Veg,Goan veg restaurant in Ranikhet.
+323,Golden Courtyard,Ranikhet,Uttarakhand,Continental,₹₹,945,4.7,Both,Continental both restaurant in Ranikhet.
+324,Red Chili Diner,Palitana,Gujarat,Rajasthani,₹₹,672,3.0,Both,Rajasthani both restaurant in Palitana.
+325,Zaika Cafe,Palitana,Gujarat,Mughlai,₹₹₹₹,2504,4.3,Veg,Mughlai veg restaurant in Palitana.
+326,Namak Restaurant,Palitana,Gujarat,Chettinad,₹,419,3.7,Both,Chettinad both restaurant in Palitana.
