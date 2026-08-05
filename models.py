@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Float, ForeignKey
+from sqlalchemy import Column, Integer, String, ForeignKey
 from database import Base
 
 
@@ -15,6 +15,7 @@ class User(Base):
     password = Column(String(100), nullable=False)
 
 
+
 # -------------------------
 # Trip Table
 # -------------------------
@@ -23,8 +24,16 @@ class Trip(Base):
     __tablename__ = "trips"
 
     id = Column(Integer, primary_key=True, index=True)
+
     destination = Column(String(100), nullable=False)
-    budget = Column(Float)
+
+    # Budget can store values like:
+    # low / medium / high
+    budget = Column(String(50))
+
     days = Column(Integer)
+
+    # AI generated travel plan
+    itinerary = Column(String, nullable=True)
 
     user_id = Column(Integer, ForeignKey("users.id"))
