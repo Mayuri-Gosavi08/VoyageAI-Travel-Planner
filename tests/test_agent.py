@@ -1,12 +1,12 @@
 from agents.weather_agent import weather_agent
 
-state = {
-    "city": "Mumbai",
+initial_state = {
+    "city": "Pune",
     "weather": {},
     "response": "",
     "timestamp": ""
 }
 
-result = weather_agent.invoke(state)
+result = weather_agent.invoke(initial_state)
 
 print(result)

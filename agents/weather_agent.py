@@ -3,7 +3,7 @@ from typing import TypedDict
 from langgraph.graph import StateGraph, START, END
 
 from services.weather_service import get_weather
-from services.gemini_service import ask_gemini
+from services.gemini_service import generate_response
 
 class AgentState(TypedDict):
     city: str
@@ -20,18 +20,28 @@ def process(state: AgentState):
     state["weather"] = weather
 
     prompt = f"""
-    You are a travel assistant.
+    You are an expert travel planner.
 
-    Weather Information
+    City: {city}
 
+    Current Weather:
     {weather}
 
-    Give travelling advice in 5 points.
+    Give exactly 5 travel recommendations.
+
+    Include:
+    - What to wear
+    - Whether to carry an umbrella
+    - Best places to visit in this weather
+    - Safety precautions
+    - Local travel tips
+
+    Keep the response simple and user-friendly.
     """
+    
+    response = generate_response(prompt)
 
-    answer = ask_gemini(prompt)
-
-    state["response"] = answer
+    state["response"] = response
 
     return state
 

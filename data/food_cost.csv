@@ -1,0 +1,84 @@
+item_id,item_name,category,cuisine_type,avg_price_inr,region_popular_in
+1,Masala Dosa,Breakfast,South Indian,76,South India
+2,Idli Sambar,Breakfast,South Indian,80,South India
+3,Rava Dosa,Breakfast,South Indian,136,South India
+4,Mysore Masala Dosa,Breakfast,South Indian,102,South India
+5,Medu Vada,Breakfast,South Indian,85,South India
+6,Uttapam,Breakfast,South Indian,83,South India
+7,Poha,Breakfast,North Indian,48,Central/West India
+8,Aloo Paratha,Breakfast,Punjabi,128,North India
+9,Chole Bhature,Breakfast,Punjabi,151,North India
+10,Puri Bhaji,Breakfast,North Indian,114,North/West India
+11,Upma,Breakfast,South Indian,47,South India
+12,Litti Chokha,Breakfast,Bihari,126,Bihar
+13,Misal Pav,Breakfast,Maharashtrian,112,Maharashtra
+14,Dhokla,Snack,Gujarati,67,Gujarat
+15,Thepla,Breakfast,Gujarati,55,Gujarat
+16,Appam with Stew,Breakfast,Kerala,102,Kerala
+17,Butter Chicken,Main Course,North Indian,418,North India
+18,Dal Makhani,Main Course,North Indian,244,North India
+19,Rajma Chawal,Main Course,North Indian,227,North India
+20,Paneer Tikka Masala,Main Course,North Indian,314,North India
+21,Kadhai Paneer,Main Course,North Indian,330,North India
+22,Palak Paneer,Main Course,North Indian,205,North India
+23,Rogan Josh,Main Course,Kashmiri,274,Jammu & Kashmir
+24,Chicken Tikka Masala,Main Course,North Indian,280,North India
+25,Hyderabadi Chicken Biryani,Main Course,Hyderabadi,363,Telangana
+26,Lucknowi Mutton Biryani,Main Course,Awadhi,284,Uttar Pradesh
+27,Kerala Fish Curry,Main Course,Kerala,233,Kerala
+28,Prawn Malai Curry,Main Course,Bengali,368,West Bengal
+29,Mutton Curry,Main Course,North Indian,280,Pan-India
+30,Sarson Ka Saag with Makki Roti,Main Course,Punjabi,207,Punjab
+31,Kerala Sadya Thali,Thali,Kerala,237,Kerala
+32,Rajasthani Thali,Thali,Rajasthani,242,Rajasthan
+33,Gujarati Thali,Thali,Gujarati,319,Gujarat
+34,Malabar Parotta with Curry,Main Course,Kerala,189,Kerala
+35,Chicken Chettinad,Main Course,Chettinad,368,Tamil Nadu
+36,Dal Bati Churma,Main Course,Rajasthani,227,Rajasthan
+37,Bisi Bele Bath,Main Course,Karnataka,151,Karnataka
+38,Pav Bhaji,Snack,Maharashtrian,158,Maharashtra
+39,Samosa,Snack,Street Food,19,Pan-India
+40,Pani Puri,Snack,Street Food,57,Pan-India
+41,Bhel Puri,Snack,Street Food,62,Maharashtra
+42,Sev Puri,Snack,Street Food,41,Maharashtra
+43,Vada Pav,Snack,Street Food,37,Maharashtra
+44,Dahi Puri,Snack,Street Food,76,Maharashtra
+45,Kachori,Snack,Street Food,33,North/West India
+46,Vegetable Pakora,Snack,Street Food,59,Pan-India
+47,Veg Momos,Snack,Tibetan/NE Indian,90,North/Northeast India
+48,Chicken Momos,Snack,Tibetan/NE Indian,154,North/Northeast India
+49,Aloo Tikki Chaat,Snack,Street Food,50,North India
+50,Papdi Chaat,Snack,Street Food,55,North India
+51,Seekh Kebab,Kebab/Grill,Mughlai,199,North India
+52,Chicken Tikka,Kebab/Grill,Tandoor & Grill,297,North India
+53,Mutton Boti Kebab,Kebab/Grill,Mughlai,306,North India
+54,Tandoori Chicken (Full),Kebab/Grill,Tandoor & Grill,478,North India
+55,Fish Tikka,Kebab/Grill,Tandoor & Grill,302,Pan-India
+56,Curd Rice,Main Course,South Indian,87,South India
+57,Lemon Rice,Main Course,South Indian,65,South India
+58,Filter Coffee,Beverage,South Indian,38,South India
+59,Veg Manchurian,Main Course,Indo-Chinese,188,Pan-India
+60,Chilli Chicken,Main Course,Indo-Chinese,221,Pan-India
+61,Hakka Noodles,Main Course,Indo-Chinese,100,Pan-India
+62,Veg Fried Rice,Main Course,Indo-Chinese,90,Pan-India
+63,Spring Rolls,Snack,Indo-Chinese,156,Pan-India
+64,Thukpa,Main Course,Tibetan/NE Indian,118,Northeast India
+65,Bamboo Shoot Curry,Main Course,NE Indian,196,Northeast India
+66,Gulab Jamun (2 pcs),Dessert,North Indian,37,Pan-India
+67,Rasgulla (2 pcs),Dessert,Bengali,38,West Bengal
+68,Jalebi (100g),Dessert,North Indian,48,Pan-India
+69,Kulfi,Dessert,North Indian,51,Pan-India
+70,Rasmalai (2 pcs),Dessert,Bengali,57,West Bengal
+71,Gajar Ka Halwa,Dessert,North Indian,57,North India
+72,Sandesh (2 pcs),Dessert,Bengali,91,West Bengal
+73,Mysore Pak,Dessert,South Indian,100,Karnataka
+74,Kaju Katli (100g),Dessert,North Indian,158,Pan-India
+75,Masala Chai,Beverage,Pan-India,35,Pan-India
+76,Lassi (Sweet),Beverage,Punjabi,61,Punjab
+77,Nimbu Pani,Beverage,Pan-India,21,Pan-India
+78,Sugarcane Juice,Beverage,Pan-India,38,Pan-India
+79,Thandai,Beverage,North Indian,68,North India
+80,Buttermilk (Chaas),Beverage,Pan-India,29,Pan-India
+81,Jaljeera,Beverage,North Indian,43,North India
+82,Coconut Water,Beverage,Pan-India,39,Coastal India
+83,Fresh Lime Soda,Beverage,Pan-India,37,Pan-India

@@ -1,0 +1,505 @@
+city,state,month,avg_max_temp_c,avg_min_temp_c,avg_rainfall_mm,humidity_pct,condition,good_time_to_visit
+Jodhpur,Rajasthan,Jan,25.8,15.6,11.3,33,Pleasant,Yes
+Jodhpur,Rajasthan,Feb,27.5,17.6,1.9,34,Pleasant,Yes
+Jodhpur,Rajasthan,Mar,31.6,21.1,34.2,42,Pleasant,Yes
+Jodhpur,Rajasthan,Apr,38.7,28.8,24.7,36,Hot & Dry,No
+Jodhpur,Rajasthan,May,42.5,31.8,17.6,36,Hot & Dry,No
+Jodhpur,Rajasthan,Jun,41.3,32.8,165.4,74,Monsoon/Rainy,No
+Jodhpur,Rajasthan,Jul,39.7,30.2,283.8,68,Monsoon/Rainy,No
+Jodhpur,Rajasthan,Aug,38.0,29.1,261.3,68,Monsoon/Rainy,No
+Jodhpur,Rajasthan,Sep,32.6,23.0,287.4,71,Monsoon/Rainy,No
+Jodhpur,Rajasthan,Oct,27.7,17.5,10.1,33,Pleasant,Yes
+Jodhpur,Rajasthan,Nov,24.6,15.3,33.0,39,Pleasant,Yes
+Jodhpur,Rajasthan,Dec,22.6,11.0,29.7,33,Pleasant,Yes
+Rishikesh,Uttarakhand,Jan,2.4,-7.9,7.4,34,Cold,No
+Rishikesh,Uttarakhand,Feb,7.1,-5.6,10.2,36,Cold,No
+Rishikesh,Uttarakhand,Mar,11.8,-0.9,16.1,33,Cold,No
+Rishikesh,Uttarakhand,Apr,13.7,2.9,12.9,42,Pleasant,Yes
+Rishikesh,Uttarakhand,May,18.4,6.5,7.5,36,Pleasant,Yes
+Rishikesh,Uttarakhand,Jun,17.1,6.7,218.4,82,Monsoon/Rainy,Yes
+Rishikesh,Uttarakhand,Jul,18.3,7.6,181.0,76,Monsoon/Rainy,No
+Rishikesh,Uttarakhand,Aug,16.3,3.4,127.9,69,Pleasant,No
+Rishikesh,Uttarakhand,Sep,8.6,-3.2,288.0,75,Monsoon/Rainy,Yes
+Rishikesh,Uttarakhand,Oct,7.5,-5.6,37.6,43,Cold,Yes
+Rishikesh,Uttarakhand,Nov,2.3,-11.4,27.4,33,Cold,Yes
+Rishikesh,Uttarakhand,Dec,1.8,-11.2,9.5,47,Cold,No
+Calangute,Goa,Jan,29.4,23.1,28.9,81,Pleasant,Yes
+Calangute,Goa,Feb,28.8,22.9,22.8,79,Pleasant,Yes
+Calangute,Goa,Mar,28.3,22.0,39.6,70,Pleasant,Yes
+Calangute,Goa,Apr,29.8,24.6,38.7,75,Pleasant,No
+Calangute,Goa,May,29.0,23.8,3.0,74,Pleasant,No
+Calangute,Goa,Jun,29.7,24.4,441.8,75,Monsoon/Rainy,No
+Calangute,Goa,Jul,29.5,23.5,388.6,74,Monsoon/Rainy,No
+Calangute,Goa,Aug,31.8,24.2,857.7,67,Monsoon/Rainy,No
+Calangute,Goa,Sep,29.7,23.5,878.9,80,Monsoon/Rainy,No
+Calangute,Goa,Oct,30.3,23.0,26.2,74,Pleasant,Yes
+Calangute,Goa,Nov,27.3,22.0,12.4,79,Pleasant,Yes
+Calangute,Goa,Dec,28.3,21.0,34.8,88,Pleasant,Yes
+Mumbai,Maharashtra,Jan,23.4,13.5,16.4,38,Pleasant,Yes
+Mumbai,Maharashtra,Feb,25.5,14.9,16.8,33,Pleasant,Yes
+Mumbai,Maharashtra,Mar,30.4,18.8,9.3,41,Pleasant,Yes
+Mumbai,Maharashtra,Apr,34.6,24.3,29.2,40,Pleasant,No
+Mumbai,Maharashtra,May,38.5,29.2,12.5,37,Hot & Dry,No
+Mumbai,Maharashtra,Jun,38.8,26.8,152.8,81,Monsoon/Rainy,No
+Mumbai,Maharashtra,Jul,37.3,28.1,229.8,78,Monsoon/Rainy,No
+Mumbai,Maharashtra,Aug,34.9,24.9,314.4,72,Monsoon/Rainy,No
+Mumbai,Maharashtra,Sep,30.0,18.8,295.4,76,Monsoon/Rainy,No
+Mumbai,Maharashtra,Oct,27.8,17.6,14.1,32,Pleasant,Yes
+Mumbai,Maharashtra,Nov,25.3,13.4,16.6,44,Pleasant,Yes
+Mumbai,Maharashtra,Dec,22.2,10.5,2.2,32,Pleasant,Yes
+Munnar,Kerala,Jan,14.0,2.7,35.5,34,Pleasant,No
+Munnar,Kerala,Feb,17.3,4.3,15.2,46,Pleasant,No
+Munnar,Kerala,Mar,19.3,7.8,26.4,47,Pleasant,Yes
+Munnar,Kerala,Apr,21.9,10.4,33.7,39,Pleasant,Yes
+Munnar,Kerala,May,22.8,10.4,32.0,38,Pleasant,Yes
+Munnar,Kerala,Jun,21.3,11.5,515.3,70,Monsoon/Rainy,Yes
+Munnar,Kerala,Jul,23.0,10.8,858.8,77,Monsoon/Rainy,No
+Munnar,Kerala,Aug,20.8,8.6,794.4,79,Monsoon/Rainy,No
+Munnar,Kerala,Sep,19.0,6.0,352.6,73,Monsoon/Rainy,Yes
+Munnar,Kerala,Oct,15.8,5.4,38.2,43,Pleasant,Yes
+Munnar,Kerala,Nov,15.6,5.5,36.9,32,Pleasant,Yes
+Munnar,Kerala,Dec,15.3,4.1,35.1,37,Pleasant,No
+Kochi,Kerala,Jan,30.4,21.4,39.1,42,Pleasant,Yes
+Kochi,Kerala,Feb,31.9,21.7,15.4,40,Pleasant,Yes
+Kochi,Kerala,Mar,32.7,21.7,16.1,37,Pleasant,No
+Kochi,Kerala,Apr,33.7,22.4,1.3,36,Pleasant,No
+Kochi,Kerala,May,33.3,22.8,9.4,40,Pleasant,No
+Kochi,Kerala,Jun,31.5,23.2,767.3,75,Monsoon/Rainy,No
+Kochi,Kerala,Jul,32.8,21.0,737.9,71,Monsoon/Rainy,No
+Kochi,Kerala,Aug,32.4,21.8,788.5,71,Monsoon/Rainy,No
+Kochi,Kerala,Sep,32.0,20.6,403.3,75,Monsoon/Rainy,No
+Kochi,Kerala,Oct,30.6,19.4,0.9,41,Pleasant,No
+Kochi,Kerala,Nov,30.3,18.9,19.2,33,Pleasant,Yes
+Kochi,Kerala,Dec,30.5,19.1,22.7,42,Pleasant,Yes
+Puducherry,Puducherry,Jan,24.9,19.4,38.2,86,Pleasant,Yes
+Puducherry,Puducherry,Feb,26.7,21.7,32.0,80,Pleasant,Yes
+Puducherry,Puducherry,Mar,29.5,22.8,29.2,84,Pleasant,Yes
+Puducherry,Puducherry,Apr,30.5,23.5,19.3,87,Pleasant,No
+Puducherry,Puducherry,May,31.1,23.6,1.8,69,Pleasant,No
+Puducherry,Puducherry,Jun,32.9,26.0,7.5,80,Pleasant,No
+Puducherry,Puducherry,Jul,30.9,24.9,20.3,85,Pleasant,No
+Puducherry,Puducherry,Aug,30.3,24.4,21.3,71,Pleasant,No
+Puducherry,Puducherry,Sep,29.9,24.8,20.9,77,Pleasant,No
+Puducherry,Puducherry,Oct,27.3,20.0,317.7,89,Monsoon/Rainy,Yes
+Puducherry,Puducherry,Nov,25.8,19.8,232.9,86,Monsoon/Rainy,Yes
+Puducherry,Puducherry,Dec,25.5,17.9,282.4,88,Monsoon/Rainy,Yes
+Kanyakumari,Tamil Nadu,Jan,29.0,23.4,11.3,73,Pleasant,Yes
+Kanyakumari,Tamil Nadu,Feb,32.3,26.6,5.0,67,Pleasant,Yes
+Kanyakumari,Tamil Nadu,Mar,31.7,26.2,12.2,85,Pleasant,Yes
+Kanyakumari,Tamil Nadu,Apr,33.7,27.1,6.1,66,Pleasant,No
+Kanyakumari,Tamil Nadu,May,34.5,28.6,16.4,86,Pleasant,No
+Kanyakumari,Tamil Nadu,Jun,33.6,27.5,26.6,84,Pleasant,No
+Kanyakumari,Tamil Nadu,Jul,35.2,28.6,13.9,86,Hot & Humid,No
+Kanyakumari,Tamil Nadu,Aug,35.6,28.5,35.4,79,Hot & Humid,No
+Kanyakumari,Tamil Nadu,Sep,34.1,27.3,36.9,74,Pleasant,No
+Kanyakumari,Tamil Nadu,Oct,30.5,23.1,234.6,66,Monsoon/Rainy,Yes
+Kanyakumari,Tamil Nadu,Nov,31.8,25.5,207.9,89,Monsoon/Rainy,Yes
+Kanyakumari,Tamil Nadu,Dec,31.2,23.9,200.9,67,Monsoon/Rainy,Yes
+Haridwar,Uttarakhand,Jan,16.7,6.6,3.1,46,Pleasant,Yes
+Haridwar,Uttarakhand,Feb,23.8,12.0,16.1,44,Pleasant,Yes
+Haridwar,Uttarakhand,Mar,30.3,20.9,5.1,40,Pleasant,Yes
+Haridwar,Uttarakhand,Apr,40.2,28.4,38.4,44,Hot & Dry,No
+Haridwar,Uttarakhand,May,44.3,35.1,17.4,46,Hot & Humid,No
+Haridwar,Uttarakhand,Jun,44.8,35.9,161.8,73,Monsoon/Rainy,No
+Haridwar,Uttarakhand,Jul,42.5,32.9,151.0,74,Monsoon/Rainy,No
+Haridwar,Uttarakhand,Aug,38.1,26.5,141.4,81,Hot & Humid,No
+Haridwar,Uttarakhand,Sep,29.2,18.1,123.0,71,Pleasant,No
+Haridwar,Uttarakhand,Oct,23.2,11.8,4.5,39,Pleasant,Yes
+Haridwar,Uttarakhand,Nov,15.3,5.0,16.4,34,Pleasant,Yes
+Haridwar,Uttarakhand,Dec,14.1,4.2,13.2,39,Pleasant,Yes
+Jaipur,Rajasthan,Jan,24.3,13.2,29.0,46,Pleasant,Yes
+Jaipur,Rajasthan,Feb,27.1,18.1,7.5,37,Pleasant,Yes
+Jaipur,Rajasthan,Mar,30.9,22.4,29.5,41,Pleasant,Yes
+Jaipur,Rajasthan,Apr,37.6,26.6,37.7,41,Hot & Dry,No
+Jaipur,Rajasthan,May,41.5,31.6,37.8,33,Hot & Dry,No
+Jaipur,Rajasthan,Jun,42.7,33.3,200.4,67,Monsoon/Rainy,No
+Jaipur,Rajasthan,Jul,43.6,31.9,157.4,78,Monsoon/Rainy,No
+Jaipur,Rajasthan,Aug,37.4,26.0,153.4,73,Monsoon/Rainy,No
+Jaipur,Rajasthan,Sep,31.8,23.3,311.3,74,Monsoon/Rainy,No
+Jaipur,Rajasthan,Oct,27.7,16.3,3.5,42,Pleasant,Yes
+Jaipur,Rajasthan,Nov,25.5,13.7,11.5,34,Pleasant,Yes
+Jaipur,Rajasthan,Dec,21.4,11.8,9.9,36,Pleasant,Yes
+Gulmarg,Jammu and Kashmir,Jan,5.3,-5.3,1.5,36,Cold,No
+Gulmarg,Jammu and Kashmir,Feb,10.7,-2.8,37.0,35,Cold,No
+Gulmarg,Jammu and Kashmir,Mar,15.4,5.2,23.0,42,Pleasant,No
+Gulmarg,Jammu and Kashmir,Apr,20.5,8.0,1.2,41,Pleasant,Yes
+Gulmarg,Jammu and Kashmir,May,24.2,13.0,39.2,44,Pleasant,Yes
+Gulmarg,Jammu and Kashmir,Jun,27.6,15.4,158.6,74,Monsoon/Rainy,Yes
+Gulmarg,Jammu and Kashmir,Jul,26.8,13.6,160.2,72,Monsoon/Rainy,No
+Gulmarg,Jammu and Kashmir,Aug,20.9,10.7,132.7,70,Pleasant,No
+Gulmarg,Jammu and Kashmir,Sep,16.1,5.7,270.0,81,Monsoon/Rainy,Yes
+Gulmarg,Jammu and Kashmir,Oct,8.9,-2.0,5.4,46,Cold,Yes
+Gulmarg,Jammu and Kashmir,Nov,6.6,-3.9,37.8,39,Cold,Yes
+Gulmarg,Jammu and Kashmir,Dec,5.7,-7.3,28.9,42,Cold,No
+Darjeeling,West Bengal,Jan,3.5,2.0,3.0,33,Cold,No
+Darjeeling,West Bengal,Feb,9.1,2.0,26.5,32,Cold,No
+Darjeeling,West Bengal,Mar,14.5,2.9,15.5,38,Pleasant,Yes
+Darjeeling,West Bengal,Apr,21.3,10.5,31.2,41,Pleasant,Yes
+Darjeeling,West Bengal,May,25.4,15.9,14.1,32,Pleasant,Yes
+Darjeeling,West Bengal,Jun,29.5,16.7,213.3,74,Monsoon/Rainy,Yes
+Darjeeling,West Bengal,Jul,26.2,16.6,154.4,76,Monsoon/Rainy,No
+Darjeeling,West Bengal,Aug,21.8,9.3,188.1,70,Monsoon/Rainy,No
+Darjeeling,West Bengal,Sep,16.2,3.8,233.2,73,Monsoon/Rainy,Yes
+Darjeeling,West Bengal,Oct,9.0,2.0,30.6,36,Cold,Yes
+Darjeeling,West Bengal,Nov,3.1,2.0,0.0,38,Cold,Yes
+Darjeeling,West Bengal,Dec,3.0,2.0,9.9,40,Cold,No
+Kodaikanal,Tamil Nadu,Jan,3.1,2.0,11.6,43,Cold,No
+Kodaikanal,Tamil Nadu,Feb,7.1,2.0,9.1,39,Cold,No
+Kodaikanal,Tamil Nadu,Mar,12.9,3.8,26.1,33,Pleasant,Yes
+Kodaikanal,Tamil Nadu,Apr,19.3,7.4,21.0,33,Pleasant,Yes
+Kodaikanal,Tamil Nadu,May,23.4,10.4,31.6,34,Pleasant,Yes
+Kodaikanal,Tamil Nadu,Jun,23.3,10.8,24.0,43,Pleasant,Yes
+Kodaikanal,Tamil Nadu,Jul,21.5,9.3,26.2,34,Pleasant,No
+Kodaikanal,Tamil Nadu,Aug,19.8,8.2,7.5,47,Pleasant,No
+Kodaikanal,Tamil Nadu,Sep,12.2,2.2,15.7,42,Pleasant,Yes
+Kodaikanal,Tamil Nadu,Oct,7.0,2.0,131.4,78,Cold,Yes
+Kodaikanal,Tamil Nadu,Nov,3.0,2.0,252.0,70,Monsoon/Rainy,Yes
+Kodaikanal,Tamil Nadu,Dec,3.0,2.0,132.9,70,Cold,No
+Agra,Uttar Pradesh,Jan,15.8,7.5,9.6,43,Pleasant,Yes
+Agra,Uttar Pradesh,Feb,21.7,11.1,17.0,39,Pleasant,Yes
+Agra,Uttar Pradesh,Mar,29.8,19.4,0.5,34,Pleasant,Yes
+Agra,Uttar Pradesh,Apr,36.5,28.0,22.0,46,Hot & Humid,No
+Agra,Uttar Pradesh,May,44.4,32.6,31.6,37,Hot & Dry,No
+Agra,Uttar Pradesh,Jun,46.6,35.4,304.6,80,Monsoon/Rainy,No
+Agra,Uttar Pradesh,Jul,43.4,32.0,270.4,81,Monsoon/Rainy,No
+Agra,Uttar Pradesh,Aug,38.2,29.3,202.5,78,Monsoon/Rainy,No
+Agra,Uttar Pradesh,Sep,30.8,21.8,268.9,73,Monsoon/Rainy,No
+Agra,Uttar Pradesh,Oct,21.8,13.4,26.0,32,Pleasant,Yes
+Agra,Uttar Pradesh,Nov,17.0,7.1,29.7,41,Pleasant,Yes
+Agra,Uttar Pradesh,Dec,13.9,3.3,25.5,33,Pleasant,Yes
+Bangalore,Karnataka,Jan,29.7,17.7,19.5,45,Pleasant,Yes
+Bangalore,Karnataka,Feb,30.1,21.8,14.0,43,Pleasant,Yes
+Bangalore,Karnataka,Mar,30.3,22.1,1.2,35,Pleasant,No
+Bangalore,Karnataka,Apr,34.9,24.1,28.6,38,Pleasant,No
+Bangalore,Karnataka,May,33.3,22.9,32.5,39,Pleasant,No
+Bangalore,Karnataka,Jun,35.3,27.2,687.4,82,Monsoon/Rainy,No
+Bangalore,Karnataka,Jul,34.1,24.4,374.4,67,Monsoon/Rainy,No
+Bangalore,Karnataka,Aug,31.7,23.0,429.7,69,Monsoon/Rainy,No
+Bangalore,Karnataka,Sep,31.1,22.3,635.0,70,Monsoon/Rainy,No
+Bangalore,Karnataka,Oct,31.9,20.3,9.2,46,Pleasant,No
+Bangalore,Karnataka,Nov,30.2,18.3,19.3,35,Pleasant,Yes
+Bangalore,Karnataka,Dec,25.7,17.4,26.5,33,Pleasant,Yes
+Alleppey,Kerala,Jan,27.1,22.0,26.2,75,Pleasant,Yes
+Alleppey,Kerala,Feb,25.5,20.2,3.8,78,Pleasant,Yes
+Alleppey,Kerala,Mar,29.4,24.0,32.1,88,Pleasant,Yes
+Alleppey,Kerala,Apr,29.5,24.4,18.3,65,Pleasant,No
+Alleppey,Kerala,May,30.8,25.8,5.9,68,Pleasant,No
+Alleppey,Kerala,Jun,32.0,26.2,746.4,68,Monsoon/Rainy,No
+Alleppey,Kerala,Jul,30.6,23.1,790.3,78,Monsoon/Rainy,No
+Alleppey,Kerala,Aug,29.5,22.4,723.9,77,Monsoon/Rainy,No
+Alleppey,Kerala,Sep,27.0,21.6,743.2,86,Monsoon/Rainy,Yes
+Alleppey,Kerala,Oct,26.9,19.3,30.3,71,Pleasant,Yes
+Alleppey,Kerala,Nov,25.9,20.2,12.4,74,Pleasant,Yes
+Alleppey,Kerala,Dec,24.3,19.3,25.4,66,Pleasant,Yes
+Ooty,Tamil Nadu,Jan,8.1,2.0,36.9,34,Cold,No
+Ooty,Tamil Nadu,Feb,10.3,2.0,38.1,44,Cold,No
+Ooty,Tamil Nadu,Mar,16.5,4.1,32.4,39,Pleasant,Yes
+Ooty,Tamil Nadu,Apr,19.7,9.5,18.0,40,Pleasant,Yes
+Ooty,Tamil Nadu,May,25.7,13.0,22.4,33,Pleasant,Yes
+Ooty,Tamil Nadu,Jun,25.7,13.6,39.1,35,Pleasant,Yes
+Ooty,Tamil Nadu,Jul,23.6,11.1,18.4,43,Pleasant,No
+Ooty,Tamil Nadu,Aug,20.3,7.7,18.3,37,Pleasant,No
+Ooty,Tamil Nadu,Sep,16.3,4.3,22.5,43,Pleasant,Yes
+Ooty,Tamil Nadu,Oct,10.0,2.0,196.4,67,Monsoon/Rainy,Yes
+Ooty,Tamil Nadu,Nov,8.0,2.0,186.4,77,Monsoon/Rainy,Yes
+Ooty,Tamil Nadu,Dec,7.8,2.0,188.5,79,Monsoon/Rainy,No
+Chennai,Tamil Nadu,Jan,29.8,20.8,31.5,43,Pleasant,Yes
+Chennai,Tamil Nadu,Feb,31.2,20.9,10.8,35,Pleasant,Yes
+Chennai,Tamil Nadu,Mar,31.8,23.7,39.9,35,Pleasant,No
+Chennai,Tamil Nadu,Apr,36.9,24.9,35.5,40,Hot & Dry,No
+Chennai,Tamil Nadu,May,37.1,26.8,14.3,38,Hot & Dry,No
+Chennai,Tamil Nadu,Jun,37.3,26.0,3.9,39,Hot & Dry,No
+Chennai,Tamil Nadu,Jul,37.0,27.1,0.8,32,Hot & Dry,No
+Chennai,Tamil Nadu,Aug,37.7,26.7,14.4,41,Hot & Dry,No
+Chennai,Tamil Nadu,Sep,32.9,24.3,6.0,33,Pleasant,No
+Chennai,Tamil Nadu,Oct,31.9,23.5,164.2,72,Monsoon/Rainy,No
+Chennai,Tamil Nadu,Nov,30.0,19.8,124.5,75,Pleasant,Yes
+Chennai,Tamil Nadu,Dec,31.1,19.3,136.1,68,Pleasant,Yes
+Udaipur,Rajasthan,Jan,25.7,15.6,4.4,46,Pleasant,Yes
+Udaipur,Rajasthan,Feb,28.6,17.3,24.4,46,Pleasant,Yes
+Udaipur,Rajasthan,Mar,31.9,21.5,27.1,47,Pleasant,Yes
+Udaipur,Rajasthan,Apr,35.3,27.1,30.5,40,Hot & Dry,No
+Udaipur,Rajasthan,May,37.9,26.4,39.3,44,Hot & Dry,No
+Udaipur,Rajasthan,Jun,38.9,30.2,192.6,81,Monsoon/Rainy,No
+Udaipur,Rajasthan,Jul,36.8,27.2,213.3,81,Monsoon/Rainy,No
+Udaipur,Rajasthan,Aug,35.8,25.6,193.5,81,Monsoon/Rainy,No
+Udaipur,Rajasthan,Sep,30.0,21.9,231.8,71,Monsoon/Rainy,No
+Udaipur,Rajasthan,Oct,27.8,19.1,3.0,42,Pleasant,Yes
+Udaipur,Rajasthan,Nov,26.5,15.3,4.7,38,Pleasant,Yes
+Udaipur,Rajasthan,Dec,25.0,15.6,37.0,34,Pleasant,Yes
+Shillong,Meghalaya,Jan,12.9,2.0,3.6,35,Pleasant,No
+Shillong,Meghalaya,Feb,13.5,2.3,23.1,32,Pleasant,No
+Shillong,Meghalaya,Mar,18.3,6.1,2.2,36,Pleasant,Yes
+Shillong,Meghalaya,Apr,20.3,9.8,32.5,38,Pleasant,Yes
+Shillong,Meghalaya,May,22.6,9.7,19.3,37,Pleasant,Yes
+Shillong,Meghalaya,Jun,20.7,10.5,349.6,79,Monsoon/Rainy,Yes
+Shillong,Meghalaya,Jul,21.1,11.1,894.8,82,Monsoon/Rainy,No
+Shillong,Meghalaya,Aug,19.2,8.3,676.0,79,Monsoon/Rainy,No
+Shillong,Meghalaya,Sep,16.7,6.5,343.8,79,Monsoon/Rainy,Yes
+Shillong,Meghalaya,Oct,13.9,2.0,26.5,35,Pleasant,Yes
+Shillong,Meghalaya,Nov,12.9,2.7,29.1,32,Pleasant,Yes
+Shillong,Meghalaya,Dec,9.5,2.0,38.6,46,Cold,No
+Hampi,Karnataka,Jan,28.3,16.9,9.8,33,Pleasant,Yes
+Hampi,Karnataka,Feb,29.0,20.3,3.7,47,Pleasant,Yes
+Hampi,Karnataka,Mar,33.0,22.5,26.7,37,Pleasant,No
+Hampi,Karnataka,Apr,34.8,24.8,23.3,44,Pleasant,No
+Hampi,Karnataka,May,37.0,26.4,27.4,44,Hot & Dry,No
+Hampi,Karnataka,Jun,36.9,26.3,822.9,82,Monsoon/Rainy,No
+Hampi,Karnataka,Jul,36.2,27.9,608.1,76,Monsoon/Rainy,No
+Hampi,Karnataka,Aug,35.5,26.7,708.3,77,Monsoon/Rainy,No
+Hampi,Karnataka,Sep,32.6,22.3,645.5,75,Monsoon/Rainy,No
+Hampi,Karnataka,Oct,28.0,18.9,17.8,38,Pleasant,No
+Hampi,Karnataka,Nov,26.7,16.5,11.0,41,Pleasant,Yes
+Hampi,Karnataka,Dec,24.5,15.8,16.1,44,Pleasant,Yes
+Bodh Gaya,Bihar,Jan,23.9,14.2,27.2,32,Pleasant,Yes
+Bodh Gaya,Bihar,Feb,26.1,14.7,8.7,44,Pleasant,Yes
+Bodh Gaya,Bihar,Mar,30.1,21.4,27.4,42,Pleasant,Yes
+Bodh Gaya,Bihar,Apr,33.5,23.9,31.5,44,Pleasant,No
+Bodh Gaya,Bihar,May,40.3,28.4,5.9,39,Hot & Dry,No
+Bodh Gaya,Bihar,Jun,38.7,29.3,316.0,81,Monsoon/Rainy,No
+Bodh Gaya,Bihar,Jul,39.6,28.8,262.2,79,Monsoon/Rainy,No
+Bodh Gaya,Bihar,Aug,34.0,25.7,255.3,73,Monsoon/Rainy,No
+Bodh Gaya,Bihar,Sep,32.1,20.4,243.2,70,Monsoon/Rainy,No
+Bodh Gaya,Bihar,Oct,25.7,16.7,6.8,33,Pleasant,Yes
+Bodh Gaya,Bihar,Nov,22.9,12.7,33.7,47,Pleasant,Yes
+Bodh Gaya,Bihar,Dec,23.7,12.7,5.4,42,Pleasant,Yes
+Auli,Uttarakhand,Jan,1.6,-9.1,38.6,35,Cold,No
+Auli,Uttarakhand,Feb,3.1,-7.7,28.3,41,Cold,No
+Auli,Uttarakhand,Mar,6.2,-4.6,1.1,47,Cold,No
+Auli,Uttarakhand,Apr,9.2,-2.9,24.2,45,Cold,Yes
+Auli,Uttarakhand,May,12.7,1.6,7.9,38,Pleasant,Yes
+Auli,Uttarakhand,Jun,11.7,1.4,316.7,70,Monsoon/Rainy,Yes
+Auli,Uttarakhand,Jul,12.1,1.3,163.5,74,Monsoon/Rainy,No
+Auli,Uttarakhand,Aug,12.1,-1.0,227.4,75,Monsoon/Rainy,No
+Auli,Uttarakhand,Sep,7.3,-3.1,233.7,74,Monsoon/Rainy,Yes
+Auli,Uttarakhand,Oct,4.6,-7.6,16.6,32,Cold,Yes
+Auli,Uttarakhand,Nov,0.9,-9.3,3.4,43,Cold,Yes
+Auli,Uttarakhand,Dec,-0.4,-13.3,13.8,36,Cold,No
+Tirthan Valley,Himachal Pradesh,Jan,6.7,-4.0,16.4,40,Cold,No
+Tirthan Valley,Himachal Pradesh,Feb,10.1,-2.0,3.2,38,Cold,No
+Tirthan Valley,Himachal Pradesh,Mar,10.6,-0.6,30.1,42,Cold,No
+Tirthan Valley,Himachal Pradesh,Apr,15.3,2.1,31.5,45,Pleasant,Yes
+Tirthan Valley,Himachal Pradesh,May,16.4,5.8,27.9,38,Pleasant,Yes
+Tirthan Valley,Himachal Pradesh,Jun,17.3,4.9,312.2,69,Monsoon/Rainy,Yes
+Tirthan Valley,Himachal Pradesh,Jul,15.6,5.4,144.0,72,Pleasant,No
+Tirthan Valley,Himachal Pradesh,Aug,13.7,2.9,191.7,81,Monsoon/Rainy,No
+Tirthan Valley,Himachal Pradesh,Sep,10.8,0.3,244.9,77,Monsoon/Rainy,Yes
+Tirthan Valley,Himachal Pradesh,Oct,8.2,-2.6,30.9,47,Cold,Yes
+Tirthan Valley,Himachal Pradesh,Nov,7.9,-2.3,20.0,45,Cold,Yes
+Tirthan Valley,Himachal Pradesh,Dec,5.8,-6.1,9.4,40,Cold,No
+Tirupati,Andhra Pradesh,Jan,28.7,17.8,2.6,42,Pleasant,Yes
+Tirupati,Andhra Pradesh,Feb,31.9,22.5,8.8,34,Pleasant,Yes
+Tirupati,Andhra Pradesh,Mar,33.6,22.5,5.2,38,Pleasant,No
+Tirupati,Andhra Pradesh,Apr,34.4,26.1,9.5,43,Pleasant,No
+Tirupati,Andhra Pradesh,May,38.1,26.2,30.1,34,Hot & Dry,No
+Tirupati,Andhra Pradesh,Jun,39.2,28.4,131.3,70,Hot & Humid,No
+Tirupati,Andhra Pradesh,Jul,37.9,28.2,161.7,72,Monsoon/Rainy,No
+Tirupati,Andhra Pradesh,Aug,35.0,24.6,133.1,82,Hot & Humid,No
+Tirupati,Andhra Pradesh,Sep,32.9,23.8,234.6,81,Monsoon/Rainy,No
+Tirupati,Andhra Pradesh,Oct,31.9,20.5,11.8,46,Pleasant,No
+Tirupati,Andhra Pradesh,Nov,28.3,18.3,16.2,45,Pleasant,Yes
+Tirupati,Andhra Pradesh,Dec,29.4,19.5,37.8,34,Pleasant,Yes
+Kaziranga,Assam,Jan,23.6,10.7,38.6,34,Pleasant,Yes
+Kaziranga,Assam,Feb,26.8,15.5,3.9,34,Pleasant,Yes
+Kaziranga,Assam,Mar,31.6,18.4,16.7,44,Pleasant,Yes
+Kaziranga,Assam,Apr,33.3,22.8,12.7,42,Pleasant,Yes
+Kaziranga,Assam,May,38.3,26.1,18.3,44,Hot & Dry,Yes
+Kaziranga,Assam,Jun,38.5,28.2,681.5,78,Monsoon/Rainy,Yes
+Kaziranga,Assam,Jul,38.8,26.7,507.4,67,Monsoon/Rainy,No
+Kaziranga,Assam,Aug,33.2,21.8,333.4,77,Monsoon/Rainy,No
+Kaziranga,Assam,Sep,31.2,19.9,533.1,81,Monsoon/Rainy,No
+Kaziranga,Assam,Oct,25.0,13.2,11.1,34,Pleasant,No
+Kaziranga,Assam,Nov,22.4,9.0,20.7,38,Pleasant,Yes
+Kaziranga,Assam,Dec,22.9,9.9,31.6,44,Pleasant,Yes
+Kasol,Himachal Pradesh,Jan,8.6,-4.8,12.2,41,Cold,No
+Kasol,Himachal Pradesh,Feb,8.7,-3.7,4.9,34,Cold,No
+Kasol,Himachal Pradesh,Mar,11.8,1.1,13.0,39,Cold,No
+Kasol,Himachal Pradesh,Apr,13.7,1.0,5.9,32,Pleasant,Yes
+Kasol,Himachal Pradesh,May,15.1,4.4,8.1,32,Pleasant,Yes
+Kasol,Himachal Pradesh,Jun,15.3,4.7,123.9,76,Pleasant,Yes
+Kasol,Himachal Pradesh,Jul,16.3,2.7,156.9,79,Monsoon/Rainy,No
+Kasol,Himachal Pradesh,Aug,12.5,1.6,175.8,72,Monsoon/Rainy,No
+Kasol,Himachal Pradesh,Sep,12.8,-1.0,273.6,79,Monsoon/Rainy,Yes
+Kasol,Himachal Pradesh,Oct,11.1,-1.9,26.1,40,Cold,Yes
+Kasol,Himachal Pradesh,Nov,7.7,-2.6,9.1,46,Cold,Yes
+Kasol,Himachal Pradesh,Dec,9.8,-3.5,34.1,38,Cold,No
+Khajjiar,Himachal Pradesh,Jan,11.6,2.2,34.8,45,Cold,No
+Khajjiar,Himachal Pradesh,Feb,15.5,2.7,11.5,39,Pleasant,No
+Khajjiar,Himachal Pradesh,Mar,19.6,10.3,19.1,37,Pleasant,Yes
+Khajjiar,Himachal Pradesh,Apr,22.9,12.7,36.2,39,Pleasant,Yes
+Khajjiar,Himachal Pradesh,May,26.5,15.6,27.3,38,Pleasant,Yes
+Khajjiar,Himachal Pradesh,Jun,27.7,18.2,311.7,79,Monsoon/Rainy,Yes
+Khajjiar,Himachal Pradesh,Jul,26.4,17.1,229.6,77,Monsoon/Rainy,No
+Khajjiar,Himachal Pradesh,Aug,22.9,13.8,303.6,80,Monsoon/Rainy,No
+Khajjiar,Himachal Pradesh,Sep,19.8,7.7,141.4,81,Pleasant,Yes
+Khajjiar,Himachal Pradesh,Oct,12.6,3.5,34.6,41,Pleasant,Yes
+Khajjiar,Himachal Pradesh,Nov,11.3,-0.9,18.2,47,Cold,Yes
+Khajjiar,Himachal Pradesh,Dec,12.0,0.4,1.9,39,Cold,No
+Chamba,Himachal Pradesh,Jan,6.2,-6.3,19.7,47,Cold,No
+Chamba,Himachal Pradesh,Feb,9.2,-2.5,4.4,35,Cold,No
+Chamba,Himachal Pradesh,Mar,13.8,1.3,11.4,47,Pleasant,Yes
+Chamba,Himachal Pradesh,Apr,16.5,7.0,10.6,44,Pleasant,Yes
+Chamba,Himachal Pradesh,May,20.7,11.6,6.8,34,Pleasant,Yes
+Chamba,Himachal Pradesh,Jun,22.8,13.2,229.9,75,Monsoon/Rainy,Yes
+Chamba,Himachal Pradesh,Jul,21.1,12.0,174.9,79,Monsoon/Rainy,No
+Chamba,Himachal Pradesh,Aug,18.7,6.9,261.6,75,Monsoon/Rainy,No
+Chamba,Himachal Pradesh,Sep,12.6,3.3,314.5,77,Monsoon/Rainy,Yes
+Chamba,Himachal Pradesh,Oct,7.0,-3.3,19.0,37,Cold,Yes
+Chamba,Himachal Pradesh,Nov,5.7,-4.4,26.8,46,Cold,Yes
+Chamba,Himachal Pradesh,Dec,3.1,-7.7,8.6,33,Cold,No
+Narkanda,Himachal Pradesh,Jan,10.0,-1.5,4.0,36,Cold,No
+Narkanda,Himachal Pradesh,Feb,13.3,2.8,5.9,34,Pleasant,No
+Narkanda,Himachal Pradesh,Mar,17.0,6.2,34.2,39,Pleasant,Yes
+Narkanda,Himachal Pradesh,Apr,21.2,10.2,1.1,39,Pleasant,Yes
+Narkanda,Himachal Pradesh,May,25.7,12.8,37.6,33,Pleasant,Yes
+Narkanda,Himachal Pradesh,Jun,27.3,14.6,210.0,74,Monsoon/Rainy,Yes
+Narkanda,Himachal Pradesh,Jul,26.4,17.3,292.6,74,Monsoon/Rainy,No
+Narkanda,Himachal Pradesh,Aug,23.7,11.2,185.1,67,Monsoon/Rainy,No
+Narkanda,Himachal Pradesh,Sep,16.6,6.3,187.7,80,Monsoon/Rainy,Yes
+Narkanda,Himachal Pradesh,Oct,12.7,3.1,16.1,32,Pleasant,Yes
+Narkanda,Himachal Pradesh,Nov,8.9,-1.8,12.7,35,Cold,Yes
+Narkanda,Himachal Pradesh,Dec,8.0,-3.7,21.9,41,Cold,No
+Manas National Park,Assam,Jan,22.4,11.2,33.6,42,Pleasant,Yes
+Manas National Park,Assam,Feb,27.5,15.2,31.1,37,Pleasant,Yes
+Manas National Park,Assam,Mar,31.4,18.3,30.7,32,Pleasant,Yes
+Manas National Park,Assam,Apr,39.1,25.2,19.6,42,Hot & Dry,Yes
+Manas National Park,Assam,May,41.9,29.8,0.8,47,Hot & Humid,Yes
+Manas National Park,Assam,Jun,42.9,30.7,778.8,71,Monsoon/Rainy,Yes
+Manas National Park,Assam,Jul,42.5,31.2,615.9,80,Monsoon/Rainy,No
+Manas National Park,Assam,Aug,38.1,24.8,584.6,76,Monsoon/Rainy,No
+Manas National Park,Assam,Sep,32.8,19.9,465.3,78,Monsoon/Rainy,No
+Manas National Park,Assam,Oct,27.0,13.7,28.7,46,Pleasant,No
+Manas National Park,Assam,Nov,22.4,11.8,3.9,45,Pleasant,Yes
+Manas National Park,Assam,Dec,21.7,8.5,37.6,32,Pleasant,Yes
+Shimla,Himachal Pradesh,Jan,7.6,-2.6,13.3,39,Cold,No
+Shimla,Himachal Pradesh,Feb,11.4,-0.2,6.3,41,Cold,No
+Shimla,Himachal Pradesh,Mar,15.6,3.7,17.7,44,Pleasant,Yes
+Shimla,Himachal Pradesh,Apr,17.2,6.6,26.9,38,Pleasant,Yes
+Shimla,Himachal Pradesh,May,23.1,11.6,7.0,38,Pleasant,Yes
+Shimla,Himachal Pradesh,Jun,20.8,10.2,183.8,79,Monsoon/Rainy,Yes
+Shimla,Himachal Pradesh,Jul,20.6,10.4,200.2,79,Monsoon/Rainy,No
+Shimla,Himachal Pradesh,Aug,20.4,7.6,139.7,79,Pleasant,No
+Shimla,Himachal Pradesh,Sep,15.8,3.5,250.2,79,Monsoon/Rainy,Yes
+Shimla,Himachal Pradesh,Oct,9.5,-2.0,37.3,44,Cold,Yes
+Shimla,Himachal Pradesh,Nov,7.3,-4.3,14.7,44,Cold,Yes
+Shimla,Himachal Pradesh,Dec,3.6,-6.6,30.4,47,Cold,No
+Sarahan,Himachal Pradesh,Jan,2.0,-7.3,37.0,35,Cold,No
+Sarahan,Himachal Pradesh,Feb,6.6,-3.8,36.4,34,Cold,No
+Sarahan,Himachal Pradesh,Mar,12.1,1.7,18.8,40,Pleasant,Yes
+Sarahan,Himachal Pradesh,Apr,18.1,6.3,22.8,37,Pleasant,Yes
+Sarahan,Himachal Pradesh,May,20.1,9.3,15.1,42,Pleasant,Yes
+Sarahan,Himachal Pradesh,Jun,24.4,12.6,238.0,68,Monsoon/Rainy,Yes
+Sarahan,Himachal Pradesh,Jul,22.9,11.4,248.1,76,Monsoon/Rainy,No
+Sarahan,Himachal Pradesh,Aug,18.9,7.9,130.3,68,Pleasant,No
+Sarahan,Himachal Pradesh,Sep,11.6,0.8,128.9,77,Cold,Yes
+Sarahan,Himachal Pradesh,Oct,7.8,-2.0,9.0,36,Cold,Yes
+Sarahan,Himachal Pradesh,Nov,3.2,-7.6,33.9,41,Cold,Yes
+Sarahan,Himachal Pradesh,Dec,1.6,-7.6,20.6,42,Cold,No
+Manali,Himachal Pradesh,Jan,7.3,-1.9,29.7,42,Cold,No
+Manali,Himachal Pradesh,Feb,10.2,-0.4,39.4,37,Cold,No
+Manali,Himachal Pradesh,Mar,16.2,6.3,19.4,38,Pleasant,Yes
+Manali,Himachal Pradesh,Apr,18.6,8.1,0.7,45,Pleasant,Yes
+Manali,Himachal Pradesh,May,21.4,9.5,22.9,47,Pleasant,Yes
+Manali,Himachal Pradesh,Jun,22.1,11.0,234.3,77,Monsoon/Rainy,Yes
+Manali,Himachal Pradesh,Jul,22.6,12.5,200.6,69,Monsoon/Rainy,No
+Manali,Himachal Pradesh,Aug,18.7,7.7,252.9,72,Monsoon/Rainy,No
+Manali,Himachal Pradesh,Sep,16.7,5.2,183.3,72,Monsoon/Rainy,Yes
+Manali,Himachal Pradesh,Oct,10.1,1.1,25.9,38,Cold,Yes
+Manali,Himachal Pradesh,Nov,9.4,-2.0,36.2,46,Cold,Yes
+Manali,Himachal Pradesh,Dec,6.7,-3.8,36.5,38,Cold,No
+Nalanda,Bihar,Jan,20.7,11.2,38.4,47,Pleasant,Yes
+Nalanda,Bihar,Feb,24.5,14.9,3.4,35,Pleasant,Yes
+Nalanda,Bihar,Mar,30.8,19.5,24.4,35,Pleasant,Yes
+Nalanda,Bihar,Apr,33.7,22.8,36.6,39,Pleasant,No
+Nalanda,Bihar,May,38.6,26.7,25.1,44,Hot & Dry,No
+Nalanda,Bihar,Jun,39.0,27.9,171.4,80,Monsoon/Rainy,No
+Nalanda,Bihar,Jul,37.2,26.8,139.5,70,Hot & Humid,No
+Nalanda,Bihar,Aug,33.5,23.8,189.3,76,Monsoon/Rainy,No
+Nalanda,Bihar,Sep,28.7,19.6,194.8,80,Monsoon/Rainy,No
+Nalanda,Bihar,Oct,24.9,15.8,25.2,33,Pleasant,Yes
+Nalanda,Bihar,Nov,21.6,10.0,19.2,33,Pleasant,Yes
+Nalanda,Bihar,Dec,19.6,8.3,38.3,32,Pleasant,Yes
+Patna,Bihar,Jan,21.5,11.3,23.6,32,Pleasant,Yes
+Patna,Bihar,Feb,24.0,14.2,2.5,39,Pleasant,Yes
+Patna,Bihar,Mar,29.7,21.1,24.0,43,Pleasant,Yes
+Patna,Bihar,Apr,35.0,25.4,4.3,45,Hot & Humid,No
+Patna,Bihar,May,36.9,26.7,13.2,36,Hot & Dry,No
+Patna,Bihar,Jun,38.5,30.0,124.9,79,Hot & Humid,No
+Patna,Bihar,Jul,37.7,29.2,290.2,68,Monsoon/Rainy,No
+Patna,Bihar,Aug,33.3,23.3,162.6,68,Monsoon/Rainy,No
+Patna,Bihar,Sep,30.1,19.6,318.6,77,Monsoon/Rainy,No
+Patna,Bihar,Oct,23.9,13.7,3.1,44,Pleasant,Yes
+Patna,Bihar,Nov,22.2,10.4,15.3,34,Pleasant,Yes
+Patna,Bihar,Dec,19.9,11.3,11.4,39,Pleasant,Yes
+Jaisalmer,Rajasthan,Jan,16.9,2.0,6.1,21,Pleasant,Yes
+Jaisalmer,Rajasthan,Feb,23.7,6.2,3.7,29,Pleasant,Yes
+Jaisalmer,Rajasthan,Mar,32.1,15.0,13.0,35,Pleasant,Yes
+Jaisalmer,Rajasthan,Apr,41.7,23.5,13.1,36,Hot & Dry,No
+Jaisalmer,Rajasthan,May,50.0,31.5,8.1,25,Hot & Dry,No
+Jaisalmer,Rajasthan,Jun,53.2,33.2,19.1,20,Hot & Dry,No
+Jaisalmer,Rajasthan,Jul,49.2,30.2,50.0,16,Hot & Dry,No
+Jaisalmer,Rajasthan,Aug,42.8,23.8,17.8,36,Hot & Dry,No
+Jaisalmer,Rajasthan,Sep,34.2,15.8,52.3,24,Pleasant,No
+Jaisalmer,Rajasthan,Oct,24.3,6.7,12.0,33,Pleasant,Yes
+Jaisalmer,Rajasthan,Nov,17.7,2.0,1.7,20,Pleasant,Yes
+Jaisalmer,Rajasthan,Dec,16.5,2.0,8.9,25,Pleasant,Yes
+New Delhi,Delhi,Jan,13.3,3.7,0.8,33,Pleasant,Yes
+New Delhi,Delhi,Feb,18.9,8.2,36.0,40,Pleasant,Yes
+New Delhi,Delhi,Mar,26.2,15.9,1.6,36,Pleasant,Yes
+New Delhi,Delhi,Apr,34.6,24.8,22.9,35,Pleasant,No
+New Delhi,Delhi,May,38.4,29.1,27.7,33,Hot & Dry,No
+New Delhi,Delhi,Jun,43.0,31.6,303.8,70,Monsoon/Rainy,No
+New Delhi,Delhi,Jul,39.0,30.9,250.0,80,Monsoon/Rainy,No
+New Delhi,Delhi,Aug,32.8,23.7,273.1,72,Monsoon/Rainy,No
+New Delhi,Delhi,Sep,24.0,16.0,149.1,81,Pleasant,No
+New Delhi,Delhi,Oct,17.4,6.2,6.0,42,Pleasant,Yes
+New Delhi,Delhi,Nov,11.1,2.0,3.9,43,Cold,Yes
+New Delhi,Delhi,Dec,9.1,2.0,24.2,46,Cold,Yes
+Cherrapunji,Meghalaya,Jan,6.2,2.0,13.4,42,Cold,No
+Cherrapunji,Meghalaya,Feb,8.8,2.0,11.0,32,Cold,No
+Cherrapunji,Meghalaya,Mar,11.9,2.0,25.5,45,Cold,No
+Cherrapunji,Meghalaya,Apr,16.1,2.4,16.9,36,Pleasant,Yes
+Cherrapunji,Meghalaya,May,17.5,4.7,21.3,35,Pleasant,Yes
+Cherrapunji,Meghalaya,Jun,18.4,7.8,611.7,79,Monsoon/Rainy,Yes
+Cherrapunji,Meghalaya,Jul,19.4,7.3,888.3,79,Monsoon/Rainy,No
+Cherrapunji,Meghalaya,Aug,17.2,5.2,383.8,69,Monsoon/Rainy,No
+Cherrapunji,Meghalaya,Sep,12.9,2.0,875.7,80,Monsoon/Rainy,Yes
+Cherrapunji,Meghalaya,Oct,8.0,2.0,36.4,37,Cold,Yes
+Cherrapunji,Meghalaya,Nov,5.7,2.0,33.7,40,Cold,Yes
+Cherrapunji,Meghalaya,Dec,6.7,2.0,33.7,38,Cold,No
+Itanagar,Arunachal Pradesh,Jan,14.4,3.5,22.4,46,Pleasant,Yes
+Itanagar,Arunachal Pradesh,Feb,17.5,8.8,35.2,40,Pleasant,Yes
+Itanagar,Arunachal Pradesh,Mar,24.8,14.6,9.5,44,Pleasant,Yes
+Itanagar,Arunachal Pradesh,Apr,29.2,20.8,4.5,40,Pleasant,Yes
+Itanagar,Arunachal Pradesh,May,33.5,23.1,2.7,47,Pleasant,No
+Itanagar,Arunachal Pradesh,Jun,33.2,22.5,638.2,79,Monsoon/Rainy,No
+Itanagar,Arunachal Pradesh,Jul,33.3,21.4,742.5,77,Monsoon/Rainy,No
+Itanagar,Arunachal Pradesh,Aug,29.2,21.0,648.0,78,Monsoon/Rainy,No
+Itanagar,Arunachal Pradesh,Sep,26.1,14.4,321.6,80,Monsoon/Rainy,No
+Itanagar,Arunachal Pradesh,Oct,18.4,8.7,0.2,38,Pleasant,Yes
+Itanagar,Arunachal Pradesh,Nov,16.9,6.7,36.1,46,Pleasant,Yes
+Itanagar,Arunachal Pradesh,Dec,15.0,3.4,9.9,46,Pleasant,Yes
+Tawang,Arunachal Pradesh,Jan,11.3,2.0,16.9,34,Cold,No
+Tawang,Arunachal Pradesh,Feb,15.6,4.1,22.2,43,Pleasant,No
+Tawang,Arunachal Pradesh,Mar,16.7,4.7,13.9,38,Pleasant,Yes
+Tawang,Arunachal Pradesh,Apr,21.9,9.8,5.3,42,Pleasant,Yes
+Tawang,Arunachal Pradesh,May,23.6,11.3,34.2,34,Pleasant,Yes
+Tawang,Arunachal Pradesh,Jun,23.8,12.6,851.7,70,Monsoon/Rainy,Yes
+Tawang,Arunachal Pradesh,Jul,23.6,12.1,777.7,72,Monsoon/Rainy,No
+Tawang,Arunachal Pradesh,Aug,19.9,8.9,342.0,68,Monsoon/Rainy,No
+Tawang,Arunachal Pradesh,Sep,15.4,6.1,856.0,71,Monsoon/Rainy,Yes
+Tawang,Arunachal Pradesh,Oct,12.1,2.1,19.6,45,Pleasant,Yes
+Tawang,Arunachal Pradesh,Nov,11.0,2.0,16.0,46,Cold,Yes
+Tawang,Arunachal Pradesh,Dec,11.1,2.0,16.6,44,Cold,No
+Kaithal,Haryana,Jan,13.3,4.8,9.9,39,Pleasant,Yes
+Kaithal,Haryana,Feb,21.6,10.6,37.7,44,Pleasant,Yes
+Kaithal,Haryana,Mar,30.0,19.4,19.8,40,Pleasant,Yes
+Kaithal,Haryana,Apr,38.3,26.3,24.5,46,Hot & Humid,No
+Kaithal,Haryana,May,43.4,32.0,30.5,42,Hot & Dry,No
+Kaithal,Haryana,Jun,45.6,33.8,124.8,71,Hot & Humid,No
+Kaithal,Haryana,Jul,42.4,31.3,276.2,77,Monsoon/Rainy,No
+Kaithal,Haryana,Aug,36.6,28.1,313.7,74,Monsoon/Rainy,No
+Kaithal,Haryana,Sep,28.1,18.2,230.2,78,Monsoon/Rainy,No
+Kaithal,Haryana,Oct,21.7,10.8,12.5,41,Pleasant,Yes
+Kaithal,Haryana,Nov,15.8,7.4,23.4,41,Pleasant,Yes
+Kaithal,Haryana,Dec,11.8,2.0,11.6,40,Cold,Yes
