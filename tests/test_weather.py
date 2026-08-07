@@ -1,7 +1,13 @@
-from services.weather_service import get_weather
+from agents.weather_agent import weather_agent
 
 city = input("Enter City: ")
 
-result = get_weather(city)
+initial_state = {
+    "city": city,
+    "weather": {},
+    "response": ""
+}
 
-print(result)
+result = weather_agent.invoke(initial_state)
+
+print(result["response"])
