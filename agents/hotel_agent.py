@@ -24,25 +24,11 @@
 
 import pandas as pd
 
-from typing import TypedDict
+from agents.state import AgentState
 
 from langgraph.graph import StateGraph, START, END
 
 from services.gemini_service import generate_response
-
-
-# ==========================================================
-#               AGENT STATE
-# ==========================================================
-
-class AgentState(TypedDict):
-
-    destination: str
-
-    budget: int
-
-    hotel_response: str
-
 
 # ==========================================================
 #               LOAD DATASET

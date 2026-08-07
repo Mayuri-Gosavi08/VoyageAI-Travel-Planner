@@ -1,28 +1,61 @@
-from typing import TypedDict
+"""
+===========================================================
+                WEATHER AGENT
+===========================================================
+
+Purpose:
+--------
+This agent retrieves the current weather of a destination
+using the Weather Service and asks Gemini AI to generate
+travel recommendations based on the weather conditions.
+
+Workflow:
+---------
+User Input
+     ↓
+Weather Service
+     ↓
+Current Weather Data
+     ↓
+Gemini AI
+     ↓
+Travel Advice
+     ↓
+Return Updated State
+
+Input:
+------
+city
+
+Output:
+-------
+weather
+response
+
+===========================================================
+"""
+
+from agents.state import AgentState
 
 from langgraph.graph import StateGraph, START, END
 
 from services.weather_service import get_weather
 from services.gemini_service import generate_response
 
-class AgentState(TypedDict):
-    city: str
-    weather: dict
-    response: str
-    
-    
+
 def process(state: AgentState):
 
-    city = state["city"]
+    destination = state["destination"]
 
-    weather = get_weather(city)
+    weather = get_weather(destination)
+
 
     state["weather"] = weather
 
     prompt = f"""
     You are an expert travel planner.
 
-    City: {city}
+    Destination: {destination}
 
     Current Weather:
     {weather}

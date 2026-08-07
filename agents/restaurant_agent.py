@@ -34,25 +34,13 @@ restaurant_response
 ===========================================================
 """
 
-from typing import TypedDict
+from agents.state import AgentState
 
 from langgraph.graph import StateGraph
 
 from services.gemini_service import generate_response
 
 import pandas as pd
-
-
-# ===========================================================
-# Agent State
-# Stores all information exchanged between LangGraph nodes.
-# ===========================================================
-
-class AgentState(TypedDict):
-    destination: str
-    budget: int
-    restaurant_response: str
-
 
 # ===========================================================
 # Main Processing Function

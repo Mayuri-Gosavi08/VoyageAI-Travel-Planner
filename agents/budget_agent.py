@@ -27,7 +27,7 @@
 
 import pandas as pd
 
-from typing import TypedDict
+from agents.state import AgentState
 
 from langgraph.graph import StateGraph, END
 
@@ -37,17 +37,7 @@ from services.gemini_service import generate_response
 # ==========================================================
 #               PROCESS FUNCTION
 # ==========================================================
-class AgentState(TypedDict):
-
-    destination: str
-
-    budget: int
-
-    days: int
-
-    budget_response: str
-    
-    
+        
 def process(state: AgentState):
 
     # ----------------------------------------

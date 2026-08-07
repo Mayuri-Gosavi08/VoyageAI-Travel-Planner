@@ -35,24 +35,13 @@ itinerary_response
 ===========================================================
 """
 
-from typing import TypedDict
+from agents.state import AgentState
 
 from langgraph.graph import StateGraph
 
 from services.gemini_service import generate_response
 
 import pandas as pd
-
-
-# ===========================================================
-# Agent State
-# ===========================================================
-
-class AgentState(TypedDict):
-    destination: str
-    budget: int
-    days: int
-    itinerary_response: str
 
 
 # ===========================================================
