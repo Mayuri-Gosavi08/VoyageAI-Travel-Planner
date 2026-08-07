@@ -119,7 +119,8 @@ def render_sidebar():
 # PAGES
 # ============================================================
 def page_login():
-    st.title("Welcome to AI Travel Planner")
+    st.markdown("<h1 style= 'color:black'>Welcome to AI Travel Planner</h1>",unsafe_allow_html=True)
+    st.markdown("<style>.stApp { background-image: url('https://imgs.search.brave.com/Gyhv8_jd1kt-TsNqTWHvse6tBCV8rv6HjNzvhUJteEo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNDEv/NzYzLzI2Mi9zbWFs/bC90cmF2ZWwtYWNj/ZXNzb3JpZXMtb24t/Ymx1ZS1iYWNrZ3Jv/dW5kLXRyYXZlbC1j/b25jZXB0LXRvcC12/aWV3LXdpdGgtY29w/eS1zcGFjZS1waG90/by5qcGc'); background-size: cover; background-position: center; }</style>", unsafe_allow_html=True)
     st.info("Please login from the **sidebar** to continue.")
     # FOR BACK GROUND IMG AS PER CHOICE
 # st.set_page_config(layout="wide")
