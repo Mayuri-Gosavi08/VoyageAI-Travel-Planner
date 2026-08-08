@@ -1,5 +1,5 @@
 
-
+import json
 import streamlit as st
 import requests
 import pandas as pd
@@ -471,10 +471,13 @@ def page_plan_trip():
                 )
 
 def page_my_trips():
+
     col1, col2 = st.columns([5, 1])
+
     with col1:
-        st.markdown("## 📸 Travel Memories")
-        st.caption("\"Collect moments, not things — every trip tells a story.\"")
+        st.markdown("## 🧳 My Trips")
+        st.caption("Your saved AI-generated travel plans")
+
     with col2:
         if st.button("🏠 Home", key="trips_home", use_container_width=True):
             st.session_state.page = "Home"
@@ -482,52 +485,93 @@ def page_my_trips():
 
     st.markdown("---")
 
-    # Slideshow
-    st.markdown("##### 🖼️ Memory Lane")
-    slides = [
-        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
-        "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800",
-        "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
-        "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=800",
-    ]
-    st.image(slides[st.session_state.slide_idx], use_container_width=True)
+    # Check login
+    if not st.session_state.get("token"):
+        st.warning("Please login first.")
+        return
 
-    c1, c2, c3 = st.columns([1, 2, 1])
-    with c1:
-        if st.button("◀ Prev", use_container_width=True):
-            st.session_state.slide_idx = (st.session_state.slide_idx - 1) % len(slides)
-            st.rerun()
-    with c2:
-        st.markdown(
-            f"<p style='text-align:center;color:#666;'>Photo {st.session_state.slide_idx+1}/{len(slides)}</p>",
-            unsafe_allow_html=True
+    # Get trips from backend
+    try:
+        res = requests.get(
+            f"{API_BASE_URL}/my-trips",
+            headers={
+                "Authorization": f"Bearer {st.session_state.token}"
+            },
+            timeout=10
         )
-    with c3:
-        if st.button("Next ▶", use_container_width=True):
-            st.session_state.slide_idx = (st.session_state.slide_idx + 1) % len(slides)
-            st.rerun()
 
-    st.markdown("---")
-    st.markdown("##### 🧳 Completed Journeys")
+        if res.status_code == 200:
 
-    # Demo data (replace with API call later)
-    demo_trips = [
-        {"destination": "Jaipur", "days": 4, "budget": "₹18,000", "date": "Mar 2026", "note": "Amber Fort, markets & dal baati."},
-        {"destination": "Manali", "days": 5, "budget": "₹22,500", "date": "Jan 2026", "note": "Snow, cafes & paragliding."},
-        {"destination": "Goa", "days": 6, "budget": "₹28,000", "date": "Dec 2025", "note": "Sunsets, seafood & scooter rides."},
-    ]
+            trips = res.json()
 
-    for trip in demo_trips:
-        with st.expander(f"🌍 {trip['destination']} • {trip['date']} • {trip['days']} days • {trip['budget']}"):
-            st.write(trip["note"])
-            a1, a2, a3 = st.columns(3)
-            with a1:
-                st.button("View", key=f"view_{trip['destination']}", use_container_width=True)
-            with a2:
-                st.button("Download", key=f"dl_{trip['destination']}", use_container_width=True)
-            with a3:
-                st.button("Share", key=f"share_{trip['destination']}", use_container_width=True)
+            if not trips:
+                st.info(
+                    "You haven't generated any trips yet. "
+                    "Start planning your first trip! ✈️"
+                )
+                return
 
+            st.success(f"Found {len(trips)} saved trip(s)!")
+
+            for trip in trips:
+
+                destination = trip.get("destination", "Unknown")
+                days = trip.get("days", 0)
+                budget = trip.get("budget", "N/A")
+                itinerary = trip.get("itinerary", "")
+                trip_id = trip.get("id", "unknown")
+
+                # Backend stores itinerary as a string.
+                # If it happens to be a dictionary, convert it to text.
+                if isinstance(itinerary, dict):
+                    itinerary = json.dumps(
+                        itinerary,
+                        indent=4,
+                        ensure_ascii=False
+                    )
+                else:
+                    itinerary = str(itinerary)
+
+                with st.expander(
+                    f"🌍 {destination} • {days} days • ₹{budget}"
+                ):
+
+                    st.write("### 📋 AI Generated Itinerary")
+
+                    st.text_area(
+                        "Itinerary",
+                        itinerary,
+                        height=400,
+                        key=f"itinerary_{trip_id}"
+                    )
+
+                    st.download_button(
+                        "⬇️ Download Itinerary",
+                        data=itinerary.encode("utf-8"),
+                        file_name=f"itinerary_{destination}.txt",
+                        mime="text/plain",
+                        key=f"download_{trip_id}"
+                    )
+
+        elif res.status_code == 401:
+            st.error("Your login session has expired. Please login again.")
+
+        else:
+            st.error(
+                f"Failed to load trips. "
+                f"Backend returned status {res.status_code}."
+            )
+
+    except requests.exceptions.ConnectionError:
+        st.error(
+            "❌ Backend is not running. "
+            "Please start FastAPI first."
+        )
+
+    except Exception as e:
+        st.error(f"❌ Error loading trips: {e}")
+        
+        
 # ============================================================
 # MAIN
 # ============================================================
