@@ -2,13 +2,14 @@ from fastapi import FastAPI, Depends, HTTPException
 from fastapi.security import OAuth2PasswordRequestForm
 from sqlalchemy.orm import Session
 
-from database import Base, engine, SessionLocal
-import models
-import schemas
+from backend.database import Base, engine, SessionLocal
+from backend import models
+from backend import schemas
 
 from services.gemini_service import generate_response
-from auth import hash_password, verify_password, create_access_token
-from dependencies import get_current_user
+from agents.master_agent import run_master_agent
+from backend.auth import hash_password, verify_password, create_access_token
+from backend.dependencies import get_current_user
 
 
 # Create database tables
@@ -274,58 +275,42 @@ def plan_trip(
     user_id: int = Depends(get_current_user)
 ):
 
-    prompt = f"""
+    initial_state = {
+        "destination": request.destination,
+        "budget": request.budget,
+        "days": request.days,
 
-Create a detailed travel itinerary.
+        "weather": {},
+        "response": "",
 
-Destination: {request.destination}
-Number of Days: {request.days}
-Budget: {request.budget}
-Interests: {request.interest}
+        "budget_response": "",
+        "hotel_response": "",
+        "restaurant_response": "",
+        "itinerary_response": ""
+    }
 
-
-Provide:
-
-- Places to visit
-- Food recommendations
-- Activities
-- Travel tips
-
-"""
-
-
-    result = generate_response(prompt)
-
-
+    result = run_master_agent(initial_state)
 
     new_trip = models.Trip(
-    destination=request.destination,
-    budget=request.budget,
-    days=request.days,
-    itinerary=result,
-    user_id=user_id
-)
-
+        destination=request.destination,
+        budget=str(request.budget),
+        days=request.days,
+        itinerary=str(result),
+        user_id=user_id
+    )
 
     db.add(new_trip)
     db.commit()
     db.refresh(new_trip)
 
-
-
     return {
-
         "message": "AI Trip Plan Generated and Saved Successfully",
         "trip_id": new_trip.id,
         "destination": new_trip.destination,
         "itinerary": result
-
     }
-
-
-
-
-
+    
+    
 # -----------------------------
 # Logged User Trips
 # -----------------------------
