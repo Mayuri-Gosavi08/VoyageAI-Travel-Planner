@@ -226,8 +226,8 @@ def page_home():
         st.markdown("""
         <div class="feature-card">
             <div style="font-size:2.5rem;">🧭</div>
-            <h3>Plan a New Trip</h3>
-            <p>AI itinerary based on your budget & interests</p>
+            <h3 style= 'color:black'>Plan a New Trip</h3>
+            <p style= 'color:black'>AI itinerary based on your budget & interests</p>
         </div>
         """, unsafe_allow_html=True)
         if st.button("Start Planning", key="btn_plan", use_container_width=True):
@@ -238,8 +238,8 @@ def page_home():
         st.markdown("""
         <div class="feature-card">
             <div style="font-size:2.5rem;">❤️</div>
-            <h3>Wishlist</h3>
-            <p>Save places you dream of visiting</p>
+            <h3 style= 'color:black'>Wishlist</h3>
+            <p style= 'color:black'>Save places you dream of visiting</p>
         </div>
         """, unsafe_allow_html=True)
         if st.button("View Wishlist", key="btn_wish", use_container_width=True):
@@ -250,8 +250,8 @@ def page_home():
         st.markdown("""
         <div class="feature-card">
             <div style="font-size:2.5rem;">🗺️</div>
-            <h3>My Journeys</h3>
-            <p>See all your completed trips</p>
+            <h3 style= 'color:black'>My Journeys</h3>
+            <p style= 'color:black'>See all your completed trips</p>
         </div>
         """, unsafe_allow_html=True)
         if st.button("View Journeys", key="btn_trips", use_container_width=True):
