@@ -1,0 +1,59 @@
+activity_id,destination_name,activity_name,category,cost_per_person_inr,duration_hrs,min_age,description
+1,Rishikesh,River Rafting,Adventure,772,2.5,14,Adventure experience in Rishikesh.
+2,Rishikesh,Bungee Jumping,Adventure,2767,0.5,18,Adventure experience in Rishikesh.
+3,Manali,Paragliding (Solang Valley),Adventure,3238,0.5,12,Adventure experience in Manali.
+4,Bir,Paragliding (Bir Billing),Adventure,3454,1.0,12,Adventure experience in Bir.
+5,Auli,Skiing / Ski Lift,Adventure,3199,3.0,8,Adventure experience in Auli.
+6,Gulmarg,Gondola Ride + Skiing,Adventure,1905,3.0,8,Adventure experience in Gulmarg.
+7,Leh,Motorbike Rental (Royal Enfield),Adventure,1668,24.0,18,Adventure experience in Leh.
+8,Nubra Valley,Camel Safari (Double-Hump),Adventure,973,1.0,5,Adventure experience in Nubra Valley.
+9,Jaisalmer,Desert Camel Safari,Adventure,870,2.0,5,Adventure experience in Jaisalmer.
+10,Jaisalmer,Desert Camping (Sam Dunes),Adventure,3989,12.0,5,Adventure experience in Jaisalmer.
+11,Bikaner,Camel Safari,Adventure,771,1.5,5,Adventure experience in Bikaner.
+12,Alleppey,Houseboat Overnight Stay,Backwaters,20055,24.0,0,Backwaters experience in Alleppey.
+13,Kumarakom,Houseboat Day Cruise,Backwaters,4583,4.0,0,Backwaters experience in Kumarakom.
+14,Kollam,Backwater Boat Cruise,Backwaters,948,3.0,0,Backwaters experience in Kollam.
+15,Srinagar,Shikara Ride (Dal Lake),Boat Ride,644,1.0,0,Boat Ride experience in Srinagar.
+16,Varanasi,Ganga Ferry Ride,Boat Ride,282,1.0,0,Boat Ride experience in Varanasi.
+17,Kolkata,Hooghly River Cruise,Boat Ride,678,2.0,0,Boat Ride experience in Kolkata.
+18,Havelock Island,Scuba Diving,Water Sports,3641,1.5,10,Water Sports experience in Havelock Island.
+19,Havelock Island,Sea Walking,Water Sports,3106,1.0,10,Water Sports experience in Havelock Island.
+20,Port Blair,Glass Bottom Boat Ride,Boat Ride,919,1.0,0,Boat Ride experience in Port Blair.
+21,Goa,Parasailing,Water Sports,2281,0.5,10,Water Sports experience in Goa.
+22,Calangute,Jet Ski,Water Sports,1585,0.25,14,Water Sports experience in Calangute.
+23,Baga,Banana Boat Ride,Water Sports,800,0.5,6,Water Sports experience in Baga.
+24,Gokarna,Scuba Diving (Beginner),Water Sports,3854,1.5,10,Water Sports experience in Gokarna.
+25,Kovalam,Surfing Lesson,Water Sports,1837,1.5,10,Water Sports experience in Kovalam.
+26,Thekkady,Periyar Boat Safari,Wildlife,424,1.5,0,Wildlife experience in Thekkady.
+27,Ranthambore,Jeep Safari,Wildlife,1983,3.0,5,Wildlife experience in Ranthambore.
+28,Kanha,Jeep Safari,Wildlife,2240,3.0,5,Wildlife experience in Kanha.
+29,Bandhavgarh,Jeep Safari,Wildlife,2080,3.0,5,Wildlife experience in Bandhavgarh.
+30,Kaziranga,Elephant Safari,Wildlife,1964,1.5,5,Wildlife experience in Kaziranga.
+31,Kaziranga,Jeep Safari,Wildlife,2549,3.0,5,Wildlife experience in Kaziranga.
+32,Sasan Gir,Lion Safari (Gypsy),Wildlife,2855,3.0,5,Wildlife experience in Sasan Gir.
+33,Chitwan,Jungle Safari + Canoe Ride,Wildlife,3257,4.0,5,Wildlife experience in Chitwan.
+34,Munnar,Tea Plantation Walk,Cultural,660,1.5,0,Cultural experience in Munnar.
+35,Coonoor,Nilgiri Toy Train Ride,Heritage Ride,431,1.5,0,Heritage Ride experience in Coonoor.
+36,Darjeeling,Darjeeling Toy Train Ride,Heritage Ride,890,2.0,0,Heritage Ride experience in Darjeeling.
+37,Shimla,Kalka-Shimla Toy Train Ride,Heritage Ride,504,5.0,0,Heritage Ride experience in Shimla.
+38,Gangtok,Cable Car Ride,Ride,212,0.5,0,Ride experience in Gangtok.
+39,Mussoorie,Ropeway Ride (Gun Hill),Ride,308,0.5,0,Ride experience in Mussoorie.
+40,Darjeeling,Ropeway Ride,Ride,244,0.5,0,Ride experience in Darjeeling.
+41,Hyderabad,Ramoji Film City Day Pass,Amusement Park,1239,8.0,0,Amusement Park experience in Hyderabad.
+42,Mumbai,Essel World Day Pass,Amusement Park,1250,8.0,3,Amusement Park experience in Mumbai.
+43,Bangalore,Wonderla Day Pass,Amusement Park,1239,8.0,3,Amusement Park experience in Bangalore.
+44,Kochi,Wonderla Kochi Day Pass,Amusement Park,1000,8.0,3,Amusement Park experience in Kochi.
+45,Kolkata,Nicco Park Day Pass,Amusement Park,666,6.0,3,Amusement Park experience in Kolkata.
+46,Chennai,MGM Dizzee World Day Pass,Amusement Park,1100,8.0,3,Amusement Park experience in Chennai.
+47,New Delhi,Kingdom of Dreams Show,Cultural,3376,3.0,5,Cultural experience in New Delhi.
+48,Jaipur,Elephant Ride (Amber Fort),Ride,1143,0.5,5,Ride experience in Jaipur.
+49,Udaipur,Lake Pichola Boat Ride,Boat Ride,499,1.0,0,Boat Ride experience in Udaipur.
+50,Kanyakumari,Ferry Ride to Vivekananda Rock,Boat Ride,207,0.5,0,Boat Ride experience in Kanyakumari.
+51,Rameshwaram,Dhanushkodi Van Safari,Cultural,960,3.0,0,Cultural experience in Rameshwaram.
+52,Cherrapunji,Living Root Bridge Trek,Adventure,1076,4.0,10,Adventure experience in Cherrapunji.
+53,Dawki,River Boating (Umngot River),Boat Ride,670,1.0,0,Boat Ride experience in Dawki.
+54,Chikmagalur,Coffee Estate Trek,Adventure,855,3.0,8,Adventure experience in Chikmagalur.
+55,Wayanad,Bamboo Rafting,Adventure,1196,2.0,10,Adventure experience in Wayanad.
+56,Kasol,Kheerganga Trek (Guided),Adventure,2464,8.0,12,Adventure experience in Kasol.
+57,Spiti Valley,Spiti Valley Jeep Expedition,Adventure,4837,8.0,10,Adventure experience in Spiti Valley.
+58,Kaza,Spiti Valley Jeep Expedition,Adventure,5291,8.0,10,Adventure experience in Kaza.
