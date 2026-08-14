@@ -19,7 +19,8 @@ def get_weather(city):
 
     response = requests.get(
         url,
-        params=params
+        params=params,
+        timeout=10
     )
 
     data = response.json()
